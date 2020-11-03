@@ -71,6 +71,7 @@ def buscador(entrada_barrabusqueda):
     el horario de presentación, nombre del programa relacionado con la busqueda y sinopsis del mismo.
     Dicha informacion se imprime en la consola (por el momento).
     """
+    contador=0
     lineas = mashup()
     nombre_canales=["PequeTv", "Boom Cinema", "Deep Scream", "Tower Of Laughs","Cara De Col"]
     #Acceder a cada elemento del mashup (canal)
@@ -82,11 +83,13 @@ def buscador(entrada_barrabusqueda):
     #Buscar dentro de cada sublista el elemento solicitado
             for dentro_elemento in lista_elemento:
                 if entrada_barrabusqueda in dentro_elemento:
+                    contador+=1
                     # print(lista_elemento)
                     print("Canal: ",nombre_canales[macro_elemento])
                     print("Hora: ", lista_elemento[0])
                     print("Programa: ", lista_elemento[1])
                     print("Sinopsis: ", lista_elemento[2])
                     print("------------------------------------------------")
-
+            if contador == 0:
+                print("el criterio",'"'+entrada_barrabusqueda+'"',"no fue encontrado dentro de ninguna programación")
 
