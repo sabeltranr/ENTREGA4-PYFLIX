@@ -14,11 +14,11 @@ Información básica para ejecutar el programa:
 
   -El programa necesita las siguiente librerias: 
   
-   Tkinter == 3.8.2
+    -Tkinter == 3.8.2
    
-   Pillow == 7.2.0
+    -Pillow == 7.2.0
    
-   CanalBusca (libreria propia)
+    -CanalBusca (libreria propia)
    
   -Ejecutar los siguientes comandos para instalar las librerias:
   
