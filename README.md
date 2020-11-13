@@ -28,5 +28,5 @@ Información básica para ejecutar el programa:
     
     - pip install CanalBusca
     
-  -En caso de querer buscar un programa en específico,ingrese palabra clave en la barra de búsqueda y de clic en el botónn de busqueda (lupa)
+  -En caso de querer buscar un programa en específico,ingrese palabra clave en la barra de búsqueda y de clic en el botón de busqueda (lupa)
   
