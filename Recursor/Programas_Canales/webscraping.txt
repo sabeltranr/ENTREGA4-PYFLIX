@@ -1,0 +1,2134 @@
+<!DOCTYPE html>
+
+<html lang="es">
+<head>
+<script>
+ var country = 'CO';
+ var isSpainOrLatamUser = true;
+</script>
+<title>49 películas de estreno más esperadas de 2021</title>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="Hollywood parece que ha dado por perdido el 2020 en lo referente a grandes estrenos por culpa del coronavirus, ya que multitud de cintas han aplazado su..." name="description"/>
+<meta content="Uncharted, Matrix 4, Viuda Negra, Morbius, Sin tiempo para morir, Estrenos, Listas" name="news_keywords"/>
+<meta content="noodp" name="robots">
+<meta content="100000716994885" property="fb:admins">
+<meta content="52386609324" property="fb:pages"/>
+<meta content="Espinof" name="application-name"/>
+<meta content="Cine, series y TV. Estrenos, críticas y audiencias" name="msapplication-tooltip"/>
+<meta content="https://www.espinof.com" name="msapplication-starturl"/>
+<meta content="yes" name="apple-mobile-web-app-capable"/>
+<meta content="name=Lo mejor;action-uri=https://www.espinof.com/lomejor;icon-uri=https://img.weblogssl.com/css/espinof/p/v6/images/pin-bg-lomejor-icon.ico" name="msapplication-task"/>
+<meta content="https://i.blogs.es/eebdd4/peliculas-estreno-esperadas-2020/840_560.jpeg" property="og:image">
+<meta content="Las 49 películas más esperadas de 2021" property="og:title"/>
+<meta content="Hollywood parece que ha dado por perdido el 2020 en lo referente a grandes estrenos por culpa del coronavirus, ya que multitud de cintas han aplazado su..." property="og:description"/>
+<meta content="https://www.espinof.com/listas/peliculas-estreno-esperadas-2021" property="og:url"/>
+<meta content="article" property="og:type"/>
+<meta content="2020-10-25T13:00:27+00:00" property="og:updated_time"/>
+<meta content="Mikel Zorrilla" name="DC.Creator"/>
+<meta content="25 octubre 2020" name="DC.Date"/>
+<meta content="2020-10-25T13:00:27+00:00" name="DC.date.issued"/>
+<meta content="Espinof" name="DC.Source"/>
+<meta content="2020-10-25T13:00:27+00:00" property="article:modified_time"/>
+<meta content="2020-10-25T13:00:27+00:00" property="article:published_time"/>
+<meta content="summary_large_image" name="twitter:card"/><meta content="https://i.blogs.es/eebdd4/peliculas-estreno-esperadas-2020/1366_521.jpeg" name="twitter:image"/><meta content="@espinof_com" name="twitter:site"/><meta content="Las 49 películas más esperadas de 2021" name="twitter:title"/><meta content="Hollywood parece que ha dado por perdido el 2020 en lo referente a grandes estrenos por culpa del coronavirus, ya que multitud de cintas han aplazado su..." name="twitter:description"/><meta content="@freddyvoorhees" name="twitter:creator"/> <script>
+ window.dataLayer = [{"site":"BDC","siteSection":"postpage","mapping":null,"vertical":"Entertainment","postId":212113,"postUrl":"https:\/\/www.espinof.com\/listas\/peliculas-estreno-esperadas-2021","publishDate":"2020-10-25","modifiedDate":"2020-10-25T13:00","categories":["estrenos","listas"],"tags":["uncharted","matrix-4","viuda-negra","morbius","sin-tiempo-para-morir"],"videoContent":true,"partner":false,"blockLength":51,"author":"mikel zorrilla","postType":"normal"}];
+</script>
+<script>
+ window.WSL2 = window.WSL2 || {};
+ WSL2.config = WSL2.config || {};
+ WSL2.config.enableDidomiOverlay = 0;
+</script>
+<script async="async" src="https://www.googletagservices.com/tag/js/gpt.js" type="text/javascript"></script><script>
+  window.ga = window.ga || function () { (window.ga.q = window.ga.q || []).push(arguments); };
+  window.googletag = window.googletag || {};
+  googletag.cmd = googletag.cmd || [];
+ </script><script type="text/javascript">
+   var apstagSlots = [  {
+   slotID: 'div-gpt-top',
+   slotName: '/1018282/BDC-TOP-interior',
+   sizes: [[728,90],[970,90],[970,250]]
+  },
+   {
+   slotID: 'div-gpt-lat',
+   slotName: '/1018282/BDC-LAT-interior',
+   sizes: [[160,600],[300,250],[300,600]]
+  },
+   {
+   slotID: 'div-gpt-lat2',
+   slotName: '/1018282/BDC-LAT2-interior',
+   sizes: [[160,600],[300,250],[300,600]]
+  },
+   {
+   slotID: 'div-gpt-cen',
+   slotName: '/1018282/BDC-CEN-interior',
+   sizes: [[300,250],[728,90],[970,90],[970,250]]
+  },
+   {
+   slotID: 'div-gpt-cen2',
+   slotName: '/1018282/BDC-CEN2-interior',
+   sizes: [[300,250],[728,90],[970,90],[970,250]]
+  },
+   {
+   slotID: 'div-gpt-bot2',
+   slotName: '/1018282/BDC-BOT2-interior',
+   sizes: [[300,250],[728,90],[970,250],[970,90],[980,90],[320,250]]
+  },
+ ];
+  </script> <script async="" src="https://img.weblogssl.com/LPbackend/vendor/prebid-gdpr-v3.27.0.js?v=85bfeaad"></script>
+<script type="text/javascript">
+ var PREBID_TIMEOUT = 3000;
+ var adUnits = [{"code":"div-gpt-top","mediaTypes":{"banner":{"sizes":[[970,250],[728,90]]}},"bids":[{"bidder":"rubicon","params":{"accountId":"11188","siteId":"116010","zoneId":"572510"}},{"bidder":"criteo","params":{"zoneId":"1079524"}},{"bidder":"smartadserver","params":{"siteId":"179256","pageId":"862994","formatId":"53842","domain":"\/\/prg.smartadserver.com"}},{"bidder":"appnexus","params":{"placementId":"11286448"}},{"bidder":"ix","params":{"siteId":"311705","size":[970,250]}},{"bidder":"ix","params":{"siteId":"311705","size":[728,90]}},{"bidder":"ix","params":{"siteId":"311705","size":[970,90]}}]},{"code":"div-gpt-lat","mediaTypes":{"banner":{"sizes":[[300,600],[300,250],[160,600]]}},"bids":[{"bidder":"rubicon","params":{"accountId":"11188","siteId":"116010","zoneId":"572500"}},{"bidder":"criteo","params":{"zoneId":"1079520"}},{"bidder":"smartadserver","params":{"siteId":"179256","pageId":"862994","formatId":"53844","domain":"\/\/prg.smartadserver.com"}},{"bidder":"appnexus","params":{"placementId":"11286449"}},{"bidder":"ix","params":{"siteId":"311707","size":[300,600]}},{"bidder":"ix","params":{"siteId":"311707","size":[300,250]}},{"bidder":"ix","params":{"siteId":"311707","size":[160,600]}}]},{"code":"div-gpt-lat2","mediaTypes":{"banner":{"sizes":[[300,600],[300,250],[160,600]]}},"bids":[{"bidder":"rubicon","params":{"accountId":"11188","siteId":"116010","zoneId":"572504"}},{"bidder":"criteo","params":{"zoneId":"1079515"}},{"bidder":"smartadserver","params":{"siteId":"179256","pageId":"862994","formatId":"53847","domain":"\/\/prg.smartadserver.com"}},{"bidder":"appnexus","params":{"placementId":"11286450"}},{"bidder":"ix","params":{"siteId":"311709","size":[300,600]}},{"bidder":"ix","params":{"siteId":"311709","size":[300,250]}},{"bidder":"ix","params":{"siteId":"311709","size":[160,600]}}]},{"code":"div-gpt-cen","mediaTypes":{"banner":{"sizes":[[970,250],[300,250],[728,90]]}},"bids":[{"bidder":"rubicon","params":{"accountId":"11188","siteId":"116010","zoneId":"572498"}},{"bidder":"criteo","params":{"zoneId":"1079517"}},{"bidder":"smartadserver","params":{"siteId":"179256","pageId":"862994","formatId":"53864","domain":"\/\/prg.smartadserver.com"}},{"bidder":"appnexus","params":{"placementId":"11286451"}},{"bidder":"ix","params":{"siteId":"311711","size":[970,250]}},{"bidder":"ix","params":{"siteId":"311711","size":[970,90]}},{"bidder":"ix","params":{"siteId":"311711","size":[300,250]}},{"bidder":"ix","params":{"siteId":"311711","size":[728,90]}}]},{"code":"div-gpt-cen2","mediaTypes":{"banner":{"sizes":[[970,250],[300,250],[728,90]]}},"bids":[{"bidder":"rubicon","params":{"accountId":"11188","siteId":"116010","zoneId":"572496"}},{"bidder":"criteo","params":{"zoneId":"1079516"}},{"bidder":"smartadserver","params":{"siteId":"179256","pageId":"862994","formatId":"53852","domain":"\/\/prg.smartadserver.com"}},{"bidder":"appnexus","params":{"placementId":"11286452"}},{"bidder":"ix","params":{"siteId":"311713","size":[970,250]}},{"bidder":"ix","params":{"siteId":"311713","size":[970,90]}},{"bidder":"ix","params":{"siteId":"311713","size":[300,250]}},{"bidder":"ix","params":{"siteId":"311713","size":[728,90]}}]},{"code":"div-gpt-bot2","mediaTypes":{"banner":{"sizes":[[300,250],[728,90]]}},"bids":[{"bidder":"rubicon","params":{"accountId":"11188","siteId":"116010","zoneId":"572440"}},{"bidder":"criteo","params":{"zoneId":"1079514"}},{"bidder":"smartadserver","params":{"siteId":"179256","pageId":"862994","formatId":"53854","domain":"\/\/prg.smartadserver.com"}},{"bidder":"appnexus","params":{"placementId":"11286453"}},{"bidder":"ix","params":{"siteId":"311715","size":[300,250]}},{"bidder":"ix","params":{"siteId":"311715","size":[728,90]}}]}];
+ var pbjs = pbjs || {};
+ pbjs.que = pbjs.que || [];
+   googletag.cmd.push(function() { googletag.pubads().disableInitialLoad(); });
+  pbjs.bidderSettings = {
+ rubicon: { bidCpmAdjustment: function(bidCpm) { return 0.9 * bidCpm; } }
+};
+
+pbjs.que.push(function() {
+   pbjs.setConfig({
+   consentManagement: { cmpApi: 'iab', timeout: 2000, defaultGdprScope: true },
+   priceGranularity: 'dense'
+  });
+ });
+!function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
+
+apstag.init({ pubID: '3500', adServer: 'googletag', bidTimeout: 2e3 });
+
+
+(function() {
+ var bidders = ['a9', 'prebid'];
+ var requestManager = { adserverRequestSent: false };
+
+ bidders.forEach(function(bidder) { requestManager[bidder] = false; });
+
+ function _getGPTSlots(apstagSlots) {
+  var slotIDs = apstagSlots.map(function(slot) { return slot.slotID; });
+  return googletag.pubads().getSlots().filter(function(slot) {
+   return slotIDs.indexOf(slot.getSlotElementId()) > -1;
+  });
+ }
+
+ function allBiddersBack() {
+  var allBiddersBack = bidders
+   .map(function(bidder) { return requestManager[bidder]; })
+   .filter(Boolean)
+   .length === bidders.length;
+  return allBiddersBack;
+ }
+
+ function headerBidderBack(bidder) {
+  if (requestManager.adserverRequestSent === true) { return; }
+  if (bidder === 'a9') {
+   requestManager.a9 = true;
+  } else if (bidder === 'prebid') {
+   requestManager.prebid = true;
+  }
+  if (allBiddersBack()) { sendAdserverRequest(); }
+ }
+
+ function sendAdserverRequest() {
+  if (requestManager.adserverRequestSent === true) { return; }
+  requestManager.adserverRequestSent = true;
+  pbjs.adserverRequestSent = true;
+  requestManager.sendAdserverRequest = true;
+  googletag.cmd.push(function() {
+       apstag.setDisplayBids();
+    googletag.pubads().setRequestNonPersonalizedAds(window.ConsentforGoogleIs);
+    pbjs.onEvent('setTargeting', function() { googletag.pubads().refresh(); });
+    pbjs.setTargetingForGPTAsync();
+        });
+ }
+
+ function requestBids(apstagSlots, adUnits, bidTimeout) {
+  
+  pbjs.que.push(function() {
+   pbjs.addAdUnits(adUnits);
+   pbjs.requestBids({ bidsBackHandler: function (bidResponses) { headerBidderBack('prebid'); } });
+  });
+
+     apstag.fetchBids({ slots: apstagSlots, timeout: bidTimeout }, function(bids) { headerBidderBack('a9'); });
+   }
+
+ requestBids(apstagSlots, adUnits, PREBID_TIMEOUT)
+ setTimeout(function() { sendAdserverRequest(); }, PREBID_TIMEOUT);
+
+     setTimeout(function() {
+   var wins = top.pbjs.getAllWinningBids();
+   ga('create', 'UA-157151606-2', 'auto', { 'name': 'pbjsanalytics' });
+   for (var i = 0; i < wins.length; i++) {
+    var b = wins[i];
+    rev = b.cpm * 0.001 * 1000000;
+    rev = Math.round(rev)
+    site = dataLayer[0].site + '-' + b.adUnitCode
+    action = b.bidder
+    status = b.status
+    if (b.appnexus && b.appnexus.dealPriority) {
+     site = 'deal-' + site
+    }
+    if ('rendered' == status && !b.adUnitCode.includes("PTB")) {
+     ga('pbjsanalytics.send', { hitType: 'event', eventCategory: 'wins', eventAction: action, eventLabel: site, eventValue: rev })
+    }
+   }
+  }, 3200)
+ })();
+</script>
+<script>
+  googletag.cmd.push(function() {
+         googletag.defineSlot('/1018282/BDC-LAT-interior', [[160,600],[300,250],[300,600],[300,1000],[320,250]], 'div-gpt-lat').addService(googletag.pubads());
+   googletag.defineSlot('/1018282/BDC-CEN-interior', [[300,250],[670,250],[728,90],[970,90],[970,250],[1000,250],[980,90],[320,250]], 'div-gpt-cen').addService(googletag.pubads());
+   googletag.defineSlot('/1018282/BDC-CEN2-interior', [[300,250],[670,250],[728,90],[970,90],[970,250],[1000,250],[980,90],[320,250]], 'div-gpt-cen2').addService(googletag.pubads());
+   googletag.defineSlot('/1018282/BDC-LAT2-interior', [[160,600],[300,250],[300,600],[300,1000],[320,250]], 'div-gpt-lat2').addService(googletag.pubads());
+   googletag.defineSlot('/1018282/BDC-BOT2-interior', [[300,250],[728,90],[970,250],[970,90],[980,90],[320,250]], 'div-gpt-bot2').addService(googletag.pubads());
+   googletag.defineSlot('/1018282/BDC-TOP-interior', [[728,90],[970,90],[970,250],[1000,250],[980,90]], 'div-gpt-top').addService(googletag.pubads());
+     googletag.defineSlot('/1018282/BDC-OUT-interior', [1,1], 'div-gpt-out').addService(googletag.pubads());
+   googletag.defineOutOfPageSlot('/1018282/BDC-INT-interior', 'div-gpt-int').addService(googletag.pubads());  googletag.defineSlot('/1018282/BDC-INT2-interior', [1,1], 'div-gpt-int2').addService(googletag.pubads());
+ 
+   var MAX_source = "";
+         googletag.pubads().setTargeting("type", "post").setTargeting("source", MAX_source).setTargeting("site", "BDC").setTargeting("siteSection", "postpage").setTargeting("mapping", "").setTargeting("vertical", "Entertainment").setTargeting("postId", "212113").setTargeting("postUrl", "https://www.espinof.com/listas/peliculas-estreno-esperadas-2021").setTargeting("publishDate", "2020-10-25").setTargeting("modifiedDate", "2020-10-25T13:00").setTargeting("categories", ["estrenos","listas"]).setTargeting("tags", ["uncharted","matrix-4","viuda-negra","morbius","sin-tiempo-para-morir"]).setTargeting("videoContent", "1").setTargeting("partner", "").setTargeting("blockLength", "51").setTargeting("author", "mikel zorrilla").setTargeting("postType", "normal");
+   googletag.pubads().collapseEmptyDivs();
+   googletag.pubads().disableInitialLoad();
+   googletag.pubads().enableSingleRequest();
+      googletag.enableServices();
+  });
+ </script>
+<script type="application/ld+json">
+ {
+    "@context": "http:\/\/schema.org",
+    "@type": "Article",
+    "mainEntityOfPage": "https:\/\/www.espinof.com\/listas\/peliculas-estreno-esperadas-2021",
+    "name": "Las 49 pel\u00edculas m\u00e1s esperadas de 2021",
+    "headline": "Las 49 pel\u00edculas m\u00e1s esperadas de 2021",
+    "datePublished": "2020-10-25T13:00:27",
+    "dateModified": "2020-10-25T13:00:27",
+    "description": "Hollywood parece que ha dado por perdido el 2020 en lo referente a grandes estrenos por culpa del coronavirus, ya que multitud de cintas han aplazado su...",
+    "publisher": {
+        "@type": "Organization",
+        "name": "Espinof",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https:\/\/img.weblogssl.com\/css\/espinof\/p\/amp\/images\/logo.png?v=1607502905",
+            "width": 600,
+            "height": 60
+        }
+    },
+    "image": {
+        "@type": "ImageObject",
+        "url": "https:\/\/i.blogs.es\/eebdd4\/peliculas-estreno-esperadas-2020\/1366_2000.jpeg",
+        "width": "1200",
+        "height": "900"
+    },
+    "author": {
+        "@type": "Person",
+        "name": "Mikel Zorrilla"
+    },
+    "url": "https:\/\/www.espinof.com\/listas\/peliculas-estreno-esperadas-2021",
+    "thumbnailUrl": "https:\/\/i.blogs.es\/eebdd4\/peliculas-estreno-esperadas-2020\/1366_2000.jpeg",
+    "articleSection": "Listas",
+    "creator": "Mikel Zorrilla",
+    "keywords": "Uncharted, Matrix 4, Viuda Negra, Morbius, Sin tiempo para morir, Estrenos, Listas"
+}
+</script>
+<script type="application/ld+json">{
+    "@context": "http:\/\/schema.org",
+    "@type": "VideoObject",
+    "name": "Las 49 pel\u00edculas m\u00e1s esperadas de 2021",
+    "description": "Hollywood parece que ha dado por perdido el 2020 en lo referente a grandes estrenos por culpa del coronavirus, ya que multitud de cintas han aplazado su...",
+    "thumbnailUrl": "https:\/\/img.youtube.com\/vi\/GQU5eTk2kp8\/maxresdefault.jpg",
+    "uploadDate": "2020-10-25T13:00:27",
+    "publisher": {
+        "@type": "Organization",
+        "name": "Espinof",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https:\/\/img.weblogssl.com\/css\/espinof\/p\/amp\/images\/logo.png?v=1607502905",
+            "width": 600,
+            "height": 60
+        }
+    },
+    "embedUrl": "https:\/\/www.youtube.com\/embed\/GQU5eTk2kp8"
+}</script>
+<!--[if gte IE 9]>
+<link rel="shortcut icon" type="image/x-icon" href="https://img.weblogssl.com/css/espinof/p/v6/images/pin-bg-home-icon.ico"/>
+<link rel=icon type="image/ico" href="https://img.weblogssl.com/css/espinof/p/v6/images/pin-bg-home-icon.ico"/>
+<![endif]-->
+<link href="https://img.weblogssl.com/css/espinof/p/common/favicon.ico" rel="shortcut icon" type="image/ico"/>
+<link href="https://img.weblogssl.com/css/espinof/p/common/apple-touch-icon.png" rel="apple-touch-icon"/>
+<link href="https://img.weblogssl.com/css/espinof/p/common/apple-touch-icon-144-precomposed.png" rel="apple-touch-icon-precomposed" sizes="144x144"/>
+<link href="https://img.weblogssl.com/css/espinof/p/common/apple-touch-icon-114-precomposed.png" rel="apple-touch-icon-precomposed" sizes="114x114"/>
+<link href="https://img.weblogssl.com/css/espinof/p/common/apple-touch-icon-72-precomposed.png" rel="apple-touch-icon-precomposed" sizes="72x72"/>
+<link href="https://img.weblogssl.com/css/espinof/p/common/apple-touch-icon-57-precomposed.png" rel="apple-touch-icon-precomposed"/>
+<link href="/index.xml" rel="alternate" title="Espinof - todas las noticias" type="application/rss+xml"/>
+<!--[if lt IE 7]>
+<link rel="stylesheet" type="text/css" href="https://img.weblogssl.com/css/espinof/p/v6/ie7.css">
+<![endif]-->
+<link href="https://i.blogs.es/eebdd4/peliculas-estreno-esperadas-2020/75_75.jpeg" rel="image_src"/>
+<link href="https://www.espinof.com/listas/peliculas-estreno-esperadas-2021" rel="canonical"/>
+<link href="https://www.espinof.com/listas/peliculas-estreno-esperadas-2021/amp" rel="amphtml">
+<link href="https://img.weblogssl.com/css/espinof/p/skin-site-default-d/main.css?v=1607502905" rel="stylesheet" type="text/css">
+</link></link></meta></meta></meta></head>
+<body class="js-desktop">
+<script>
+   var cs_ucfr = "0";
+  var _comscore = _comscore || [];
+ var configs = {c1: "2", c2: "6035191", cs_ucfr: cs_ucfr};
+ var keyword = keyword || '';
+ if(keyword) {
+  configs.options = {url_append: "comscorekw=" + keyword};
+ }
+ _comscore.push(configs);
+ var s = document.createElement("script"), el = document.getElementsByTagName("script")[0];
+ s.async = true;
+ s.src = "https://sb.scorecardresearch.com/cs/6035191/beacon.js";
+ el.parentNode.insertBefore(s, el);
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+     ga('provide', 'adblockTracker', function(tracker, opts) {
+ var ad = document.createElement('ins');
+ ad.className = 'AdSense';
+ ad.style.display = 'block';
+ ad.style.position = 'absolute';
+ ad.style.top = '-1px';
+ ad.style.height = '1px';
+ document.body.appendChild(ad);
+ tracker.set('dimension3', 'Ads Blocked');
+ document.body.removeChild(ad);
+});
+    ga('create', "UA-78515-85", 'auto');
+  ga('create', "UA-78515-62", 'auto', {'name': 'rollUp'});
+  ga('set', 'contentGroup1', 'post');
+  ga('set', 'contentGroup2', "mikel zorrilla");
+  ga('set', 'contentGroup3', "listas");
+  ga('set', 'contentGroup4', "normal");
+  ga('set', 'contentGroup5', "201025");
+  ga('rollUp.set', 'contentGroup1', 'post');
+  ga('rollUp.set', 'contentGroup2', "mikel zorrilla");
+  ga('rollUp.set', 'contentGroup3', "listas");
+  ga('rollUp.set', 'contentGroup4', "normal");
+  ga('rollUp.set', 'contentGroup5', "201025");
+     ga('require', 'adblockTracker', {dimensionIndex: 2});
+   </script>
+<div class="customize-me">
+<div class="head-content-favs">
+<section class="head-container head-container-with-ad head-container-with-corner m-favicons-compact m-head-masthead">
+<div class="head head-with-ad is-init">
+<div class="ad ad-head"></div>
+<section class="head-favicons-container">
+<nav class="head-favicons">
+<div class="head-favicons-index head-webedia-logo">
+<a data-target="#head-favicons" href="https://www.webedia.es/" id="favicons-toggle"><abbr title="Webedia">Webedia</abbr></a>
+</div>
+</nav>
+</section>
+<div class="masthead-site-lead">
+<div class="masthead-container">
+<div class="masthead-logo">
+<div class="masthead-logo-brand">
+<a class="masthead-brand" href="/">Espinof</a>
+</div>
+</div>
+<nav class="masthead-actions">
+<ul class="masthead-actions-list">
+<li class="masthead-actions-list-item"><a class="masthead-actions-menu m-v1 js-toggle" data-searchbox="#search-field-1" href="#sections">Menú</a></li>
+<li class="masthead-actions-list-item"><a class="masthead-actions-nuevo m-v1 js-toggle" href="#headlines">Nuevo</a></li>
+</ul>
+</nav>
+</div>
+</div>
+<div class="masthead-site-nav-container js-nano-container">
+<nav class="masthead-site-nav">
+<a class="masthead-nav-search js-toggle" data-searchbox="#search-field-2" href="#search"></a>
+<ul class="masthead-nav-topics">
+<li class="masthead-nav-topics-item">
+<a class="masthead-nav-topics-anchor" href="https://www.espinof.com/categoria/criticas">CRÍTICA</a>
+</li>
+<li class="masthead-nav-topics-item">
+<a class="masthead-nav-topics-anchor" href="https://www.espinof.com/categoria/estrenos">ESTRENOS</a>
+</li>
+<li class="masthead-nav-topics-item">
+<a class="masthead-nav-topics-anchor" href="https://www.espinof.com/categoria/series-de-ficcion">SERIES</a>
+</li>
+<li class="masthead-nav-topics-item">
+<a class="masthead-nav-topics-anchor" href="https://www.espinof.com/categoria/listas">TOP</a>
+</li>
+<li class="masthead-nav-topics-item">
+<a class="masthead-nav-topics-anchor" href="https://www.espinof.com/tag/hbo">HBO</a>
+</li>
+<li class="masthead-nav-topics-item">
+<a class="masthead-nav-topics-anchor" href="https://www.espinof.com/categoria/netflix">NETFLIX</a>
+</li>
+</ul>
+<ul class="masthead-nav-social">
+<li class="masthead-nav-social-item"><a class="masthead-nav-social-anchor masthead-social-instagram" href="https://instagram.com/espinof_com" rel="nofollow">Instagram</a></li>
+<li class="masthead-nav-social-item"><a class="masthead-nav-social-anchor masthead-social-facebook" href="https://www.facebook.com/pages/espinofcinetv/52386609324" rel="nofollow">Facebook</a></li>
+<li class="masthead-nav-social-item"><a class="masthead-nav-social-anchor masthead-social-flipboard" href="https://flipboard.com/@espinof" rel="nofollow">Flipboard</a></li>
+<li class="masthead-nav-social-item"><a class="masthead-nav-social-anchor masthead-social-youtube" href="https://www.youtube.com/channel/UCZQfwlWCUxMaxwf2MKsH_wg?sub_confirmation=1" rel="nofollow">Youtube</a></li>
+<li class="masthead-nav-social-item"><a class="masthead-nav-social-anchor masthead-social-twitter" href="https://twitter.com/espinof_com" rel="nofollow">Twitter</a></li>
+</ul>
+</nav>
+</div>
+</div>
+</section>
+<div class="ad ad-top">
+<div class="ad-box" id="div-gpt-top">
+<p class="ad-contact">Publicidad</p>
+<script>
+    googletag.cmd.push(function() { googletag.display("div-gpt-top"); });
+   </script>
+</div>
+</div>
+<div class="page-container">
+<div class="content-container">
+<main>
+<article class="article article-featured">
+<div class="article-content-wrapper">
+<div class="article-content-inner">
+<div class="article-header article-featured-header">
+<header>
+<div class="article-featured-cover js-post-images-container">
+<img alt="Las 49 películas más esperadas de 2021" data-pin-no-hover="true" sizes="100vw" src="https://i.blogs.es/eebdd4/peliculas-estreno-esperadas-2020/450_1000.jpeg" srcset="https://i.blogs.es/eebdd4/peliculas-estreno-esperadas-2020/450_1000.jpeg 450w, https://i.blogs.es/eebdd4/peliculas-estreno-esperadas-2020/650_1200.jpeg 650w, https://i.blogs.es/eebdd4/peliculas-estreno-esperadas-2020/1024_2000.jpeg 1024w, https://i.blogs.es/eebdd4/peliculas-estreno-esperadas-2020/1366_2000.jpeg 1366w, https://i.blogs.es/eebdd4/peliculas-estreno-esperadas-2020/2560_3000.jpeg 2560w"/>
+<span></span>
+</div>
+<div class="article-featured-title-container">
+<div class="article-featured-title">
+<div class="article-featured-category">
+<a href="/categoria/listas">Listas</a>
+</div>
+<h1><span>Las 49 películas más esperadas de 2021</span></h1>
+</div>
+</div>
+</header>
+</div>
+<div class="article-aside m-blob-aside">
+<div class="article-aside-content">
+<div class="section-deeplinking-container m-deeplinking-aside">
+<div class="section-deeplinking">
+<span class="section-deeplinking-header">HOY SE HABLA DE</span>
+<ul class="section-deeplinking-list" id="js-deeplinking-news-nav-links">
+<li class="section-deeplinking-item"><a class="section-deeplinking-anchor" href="https://www.espinof.com/otros/warner-afirma-que-taquilla-tenet-razon-estrenar-cines-hbo-max-directora-wonder-woman-1984-apoya-plan">Tenet</a></li>
+<li class="section-deeplinking-item"><a class="section-deeplinking-anchor" href="https://www.espinof.com/proyectos/how-to-with-john-wilson-temporada-2-docuserie-hbo-llegara-2021">HBO</a></li>
+<li class="section-deeplinking-item"><a class="section-deeplinking-anchor" href="https://www.espinof.com/trailers/cobra-kai-netflix-presenta-trailer-temporada-3-esta-secuela-mitica-karate-kid">Netflix</a></li>
+<li class="section-deeplinking-item"><a class="section-deeplinking-anchor" href="https://www.espinof.com/series-de-ficcion/apple-tv-renueva-para-toda-humanidad-ucronia-espacial-protagonizada-joel-kinnaman-tendra-temporada-3">Apple tv+</a></li>
+<li class="section-deeplinking-item"><a class="section-deeplinking-anchor" href="https://www.3djuegos.com/juegos/articulos/2169/0/comparte-demons-souls-universo-con-bloodborne-y-dark-souls-todas-las-pistas-que-deja-el-remake-en-ps5/">Dark</a></li>
+<li class="section-deeplinking-item"><a class="section-deeplinking-anchor" href="https://www.espinof.com/netflix/hoops-cancelada-comedia-animada-baloncesto-netflix-no-tendra-temporada-2">Comedia</a></li>
+<li class="section-deeplinking-item"><a class="section-deeplinking-anchor" href="https://www.vidaextra.com/listas/minecraft-gta-v-videojuegos-vistos-youtube-todo-2020">Youtube</a></li>
+</ul>
+<div class="section-deeplinking-btn" id="js-deeplinking-news-nav-btn" style="display:none"></div>
+</div>
+</div>
+<div class="sticky-sidebar-container">
+<div class="ad ad-lat">
+<div class="ad-box" id="div-gpt-lat">
+<p class="ad-contact">Publicidad</p>
+<script>
+    googletag.cmd.push(function() { googletag.display("div-gpt-lat"); });
+   </script>
+</div>
+</div>
+<script>
+ window.WSLModules = window.WSLModules || {};
+ WSLModules.Overlay = {'moduleConf' : "c1"};
+</script>
+<div class="related-alts-container">
+<section class="related-alts">
+<ul>
+</ul>
+</section>
+</div>
+<div class="related-alts-container">
+<div class="aside-box">
+<p class="aside-title">Suscríbete a Espinof</p>
+<form class="js-subscription newsletter-form aside-newsletter-form" data-url="https://mailer.weblogssl.com/subscribe_check/#email#/espinof/Espinof" method="post">
+<p class="newsletter-hint">Recibe un email al día con nuestros artículos:
+   </p>
+<p>
+<input class="js-email newsletter-input" placeholder="Tu correo electrónico" type="email"/>
+<button class="btn-primary newsletter-button" type="submit">Suscribir</button>
+</p>
+</form>
+</div>
+<div class="aside-box">
+<nav class="menu-follow aside-menu-follow">
+<span class="item-meta aside-item-meta">Síguenos</span>
+<ul>
+<li>
+<a class="icon-twitter link-twitter" href="http://twitter.com/espinof_com" rel="nofollow">Twitter</a>
+</li>
+<li>
+<a class="icon-facebook link-facebook" href="https://www.facebook.com/pages/espinofcinetv/52386609324" rel="nofollow">Facebook</a>
+</li>
+<li>
+<a class="icon-youtube link-youtube" href="https://www.youtube.com/channel/UCZQfwlWCUxMaxwf2MKsH_wg?sub_confirmation=1" rel="nofollow">Youtube</a>
+</li>
+<li>
+<a class="icon-instagram link-instagram" href="https://instagram.com/espinof_com" rel="nofollow">Instagram</a>
+</li>
+<li>
+<a class="icon-rss link-rss" href="/index.xml" rel="nofollow">RSS</a>
+</li>
+<li>
+<a class="icon-flipboard link-flipboard" href="https://flipboard.com/@espinof" rel="nofollow">Flipboard</a>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+<div class="ad ad-lat2">
+<div class="ad-box" id="div-gpt-lat2">
+<p class="ad-contact">Publicidad</p>
+<script>
+    googletag.cmd.push(function() { googletag.display("div-gpt-lat2"); });
+   </script>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="article-metadata-container">
+<div class="article-metadata">
+<div class="article-actions m-in-featured">
+<div class="article-comments">
+<a class="js-smooth-scroll" href="#comments" title="18 comentarios">18 comentarios</a>
+</div>
+</div>
+<div class="article-time">
+<time class="article-date" data-format="D MMMM YYYY" data-post-modified-format="D MMMM YYYY, HH:mm" data-post-modified-time="1603630827" data-post-reindexed-original-time="" datetime="2020-10-25T13:00:27+00:00">
+   25 octubre 2020, 14:00  </time>
+</div>
+<span id="is-editor"></span>
+<footer class="article-author">
+<a class="article-author-avatar" href="/autor/mikel-zorrilla" rel="author">
+<img alt="mikel-zorrilla" src="https://www.gravatar.com/avatar/89dab7c749daf78cc4e180bc28e4c1d8?s=80&amp;d=mm&amp;r=g"/>
+</a>
+<a class="article-author-link" href="/autor/mikel-zorrilla" rel="author">Mikel Zorrilla</a>
+<a class="article-author-twitter" href="http://www.twitter.com/freddyvoorhees">@freddyvoorhees</a>
+</footer>
+</div>
+</div>
+<div class="article-content">
+<div class="blob js-post-images-container">
+<p>Hollywood parece que ha dado por perdido el 2020 en lo referente a grandes estrenos por culpa del coronavirus, ya que multitud de cintas han aplazado su lanzamiento hasta el año que viene. Para ir entrando en calor de lo que nos espera, a continuación vamos a repasar <strong>las 49 películas más esperadas de 2021</strong>.</p>
+<!-- BREAK 1 -->
+<h2>'Mortal Kombat'</h2>
+<div class="article-asset-image article-asset-large">
+<div class="asset-content">
+<img alt="Mortal Kombay" class="sf-lazy" data-sf-src="https://i.blogs.es/f9d649/mortal-kombay/450_1000.jpeg" data-sf-srcset="https://i.blogs.es/f9d649/mortal-kombay/450_1000.jpeg 450w, https://i.blogs.es/f9d649/mortal-kombay/650_1200.jpeg 681w,https://i.blogs.es/f9d649/mortal-kombay/1024_2000.jpeg 1024w, https://i.blogs.es/f9d649/mortal-kombay/1366_2000.jpeg 1366w,"/>
+<noscript><img alt="Mortal Kombay" class="" src="https://i.blogs.es/f9d649/mortal-kombay/450_1000.jpeg"/></noscript>
+</div>
+</div>
+<p><a href="https://www.espinof.com/tag/mortal-kombat">Nueva adaptación </a>del popular videojuego con el aval de la presencia como productor de James Wan. Eso sí, la puesta en escena corre a cargo del desconocido Simon McQuoid con Ludi Lin, Joe Taslim, Tadanobu Asano, Jessica McNamee, Mehcad Brooks, Josh Lawson, Chin Han e Hiroyuki Sanada dando vida a los personajes principales.</p>
+<!-- BREAK 2 --> <div id="div-gpt-out" style="width:1px; height:1px;">
+<script>
+   googletag.cmd.push(function() { googletag.display("div-gpt-out"); });
+  </script>
+</div>
+<p><strong>15 de enero</strong></p>
+<h2>'Chaos Walking'</h2>
+<div class="article-asset-image article-asset-large">
+<div class="asset-content">
+<img alt="Chaos Walking" class="sf-lazy" data-sf-src="https://i.blogs.es/75cbdd/chaos-walking/450_1000.jpeg" data-sf-srcset="https://i.blogs.es/75cbdd/chaos-walking/450_1000.jpeg 450w, https://i.blogs.es/75cbdd/chaos-walking/650_1200.jpeg 681w,https://i.blogs.es/75cbdd/chaos-walking/1024_2000.jpeg 1024w, https://i.blogs.es/75cbdd/chaos-walking/1366_2000.jpeg 1366w,"/>
+<noscript><img alt="Chaos Walking" class="" src="https://i.blogs.es/75cbdd/chaos-walking/450_1000.jpeg"/></noscript>
+</div>
+</div>
+<p><a href="https://www.espinof.com/tag/chaos-walking">Una película</a> a la que no dejan de acompañar los problemas. Se terminó de rodar en noviembre de 2017 y no se estrena hasta ahora, previa regrabación de varias escenas con otro director al cargo. Esta superproducción de ciencia ficción tiene papeletas para ser un desastre, pero es que reúne a Tom Holland y Daisy Ridley al frente de un reparto que también cuenta con Demián Bichir, Kurt Sutter, Nick Jonas, Cynthia Erivo y David Oyelowo.</p>
+<!-- BREAK 3 -->
+<p><strong>22 de enero</strong> en Estados Unidos (sin fecha para España por el momento)</p>
+<h2>'The King's Man: La primera misión'</h2>
+<div class="article-asset-video article-asset-large article-asset-center">
+<div class="asset-content">
+<div class="base-asset-video">
+<iframe allowfullscreen="" height="366" src="//www.youtube.com/embed/GQU5eTk2kp8" width="650"></iframe>
+</div>
+</div>
+</div>
+<p><a href="https://www.espinof.com/tag/the-kings-man">Precuela</a> de la saga Kingsman con Matthew Vaughn de nuevo tras las cámaras pero sin Taron Egerton delante de ellas. Aquí el protagonismo recae sobre Ralph Fiennes y Harris Dickinson para contarnos la historia del origen de ese fascinante servicio secreto británico.</p>
+<!-- BREAK 4 -->
+<p><strong>26 de febrero</strong></p>
+<h2>'Raya y el último dragón'</h2>
+<div class="article-asset-image article-asset-large">
+<div class="asset-content">
+<img alt="Raya" class="sf-lazy" data-sf-src="https://i.blogs.es/28ca41/raya/450_1000.jpeg" data-sf-srcset="https://i.blogs.es/28ca41/raya/450_1000.jpeg 450w, https://i.blogs.es/28ca41/raya/650_1200.jpeg 681w,https://i.blogs.es/28ca41/raya/1024_2000.jpeg 1024w, https://i.blogs.es/28ca41/raya/1366_2000.jpeg 1366w,"/>
+<noscript><img alt="Raya" class="" src="https://i.blogs.es/28ca41/raya/450_1000.jpeg"/></noscript>
+</div>
+</div>
+<p>El nuevo clásico animado de Disney, el primero desde <a href="https://www.espinof.com/criticas/frozen-2-digna-secuela-que-te-deja-frio-al-comparar-su-predecesora">'Frozen 2'</a>. Dirigida por Paul Briggs y Dean Wellins, su historia gira alrededor de un guerrero solitario que intenta encontrar al ultimo dragón existente para salvar su reino de un temible villano.</p>
+<!-- BREAK 5 -->
+<p><strong>12 de marzo</strong></p>
+<div class="article-asset article-asset-normal article-asset-center">
+<div class="desvio-container">
+<div class="desvio">
+<div class="desvio-figure js-desvio-figure">
+<a href="https://www.espinof.com/listas/mejores-peliculas-disney-todos-tiempos">
+<img alt="Las 23 mejores películas de Disney de todos los tiempos" src="https://i.blogs.es/cbdc12/mejores-peliculas-disney/375_142.jpg"/>
+</a>
+</div>
+<div class="desvio-summary">
+<div class="desvio-taxonomy js-desvio-taxonomy">
+<a class="desvio-taxonomy-anchor" href="https://www.espinof.com/listas/mejores-peliculas-disney-todos-tiempos">En Espinof</a>
+</div>
+<a class="desvio-title js-desvio-title" href="https://www.espinof.com/listas/mejores-peliculas-disney-todos-tiempos">Las 23 mejores películas de Disney de todos los tiempos</a>
+</div>
+</div>
+</div>
+</div>
+<h2>'Cazafantasmas: Más allá'</h2>
+<div class="article-asset-video article-asset-large article-asset-center">
+<div class="asset-content">
+<div class="base-asset-video">
+<iframe allowfullscreen="" height="366" src="//www.youtube.com/embed/E1W_tjBZZVs" width="650"></iframe>
+</div>
+</div>
+</div>
+<p><a href="https://www.espinof.com/tag/cazafantasmas-mas-alla">Nueva entrega</a> de la mítica saga original a cargo de Jason Reitman, hijo del director de las dos primeras entregas. Finn Wolfhard, Carrie Coon, Mckenna Grace, Sigourney Weaver y Paul Rudd encabezan el reparto de esta historia que lleva a una familia a una granja familiar, donde los niños descubren su conexión con los cazafantasmas tras una serie de misteriosos terremotos.</p>
+<!-- BREAK 6 -->
+<p><strong>12 de marzo</strong></p>
+<h2>'The Many Saints of Newark'</h2>
+<div class="article-asset-image article-asset-large">
+<div class="asset-content">
+<img alt="Newark" class="sf-lazy" data-sf-src="https://i.blogs.es/a8ffff/newark/450_1000.jpeg" data-sf-srcset="https://i.blogs.es/a8ffff/newark/450_1000.jpeg 450w, https://i.blogs.es/a8ffff/newark/650_1200.jpeg 681w,https://i.blogs.es/a8ffff/newark/1024_2000.jpeg 1024w, https://i.blogs.es/a8ffff/newark/1366_2000.jpeg 1366w,"/>
+<noscript><img alt="Newark" class="" src="https://i.blogs.es/a8ffff/newark/450_1000.jpeg"/></noscript>
+</div>
+</div>
+<p><a href="https://www.espinof.com/proyectos/precuela-soprano-tiene-protagonista-alessandro-nivola-sera-tio-tony-soprano">Precuela de 'Los Soprano'</a>, una de las series de televisión más aclamadas de todos los tiempos. Alessandro Nivola, Leslie Odom Jr., Jon Bernthal, Corey Stoll, Michael Gandolfini, Billy Magnussen, John Magaro, Michela De Rossi, Ray Liotta y Vera Farmiga protagonizan una cinta situada en los años 60 y 70, donde conoceremos al tio de Tony Soprano.</p>
+<!-- BREAK 7 -->
+<p><strong>12 de marzo</strong> en Estados Unidos (sin fecha por el momento para España)</p>
+<h2>'Tomb Raider 2'</h2>
+<div class="article-asset-image article-asset-large">
+<div class="asset-content">
+<img alt="Tomb Raider" class="sf-lazy" data-sf-src="https://i.blogs.es/dcc545/tomb-raider/450_1000.jpeg" data-sf-srcset="https://i.blogs.es/dcc545/tomb-raider/450_1000.jpeg 450w, https://i.blogs.es/dcc545/tomb-raider/650_1200.jpeg 681w,https://i.blogs.es/dcc545/tomb-raider/1024_2000.jpeg 1024w, https://i.blogs.es/dcc545/tomb-raider/1366_2000.jpeg 1366w,"/>
+<noscript><img alt="Tomb Raider" class="" src="https://i.blogs.es/dcc545/tomb-raider/450_1000.jpeg"/></noscript>
+</div>
+</div>
+<p>Su fecha de lanzamiento va a cambiar con total seguridad -aunque podria seguir llegando en 2021-, ya que el rodaje tuvo que aplazarse por la pandemia de coronavirus. Sin embargo, esta secuela con Alicia Vikander dando vida de nuevo a Lara Croft mantiene su fecha original. En esta ocasión, la puesta en escena correrá a cargo de Ben Wheatley.</p>
+<!-- BREAK 8 -->
+<p><strong>19 de marzo de 2021</strong></p>
+<h2>'Morbius'</h2>
+<div class="article-asset-video article-asset-large article-asset-center">
+<div class="asset-content">
+<div class="base-asset-video">
+<div class="js-jw-player">
+<script type="application/json">
+     {"file":"https://webediaespana.video.content-hub.app/default/video/78/ab/43/5e1cb7d84bd22f1591/default-standard-720.mp4","image":"https://webediaespana.delivery.content-hub.app/image/64/d7/82/5f8c8e483bef07f3d6/original/morbius.jpeg"}
+    </script>
+</div>
+</div>
+</div>
+</div>
+<p>Jared Leto se convierte en un villano del universo Spider-Man en una cinta a priori sin lazo alguno con el trepamuros interpretado por Tom Holland. <a href="https://www.espinof.com/tag/morbius">Aquí</a> el actor se pone a las órdenes de Daniel Espinosa para dar vida a un hombre con una enfermedad en la sangre que intentando curarse se convierte en un vampiro.</p>
+<!-- BREAK 9 -->
+<p><strong>26 de marzo</strong></p>
+<h2>'Sin tiempo para morir'</h2>
+<div class="article-asset-video article-asset-large article-asset-center">
+<div class="asset-content">
+<div class="base-asset-video">
+<div class="js-jw-player">
+<script type="application/json">
+     {"file":"https://webediaespana.video.content-hub.app/default/video/12/34/b2/5f50d4324bd22f8280/default-standard-720.mp4","image":"https://webediaespana.delivery.content-hub.app/image/16/00/12/5f50d68e3bef07f029/original/sin-tiempo-para-morir-james-bond-trailer-final.jpeg"}
+    </script>
+</div>
+</div>
+</div>
+</div>
+<p><a href="https://www.espinof.com/tag/sin-tiempo-para-morir">La última aventura</a> de Daniel Craig como James Bond. Solamente con eso ya justifica su existencia, pero también despierta curiosidad ver a Rami Malek dando vida a un villano siguiendo el estilo de la saga y a Ana de Armas convertida en chica Bond.</p>
+<!-- BREAK 10 -->
+<p><strong>2 de abril</strong></p>
+<h2>'Bob's Burgers: The Movie'</h2>
+<div class="article-asset-image article-asset-large">
+<div class="asset-content">
+<img alt="Burgers" class="sf-lazy" data-sf-src="https://i.blogs.es/21b473/burgers/450_1000.jpeg" data-sf-srcset="https://i.blogs.es/21b473/burgers/450_1000.jpeg 450w, https://i.blogs.es/21b473/burgers/650_1200.jpeg 681w,https://i.blogs.es/21b473/burgers/1024_2000.jpeg 1024w, https://i.blogs.es/21b473/burgers/1366_2000.jpeg 1366w,"/>
+<noscript><img alt="Burgers" class="" src="https://i.blogs.es/21b473/burgers/450_1000.jpeg"/></noscript>
+</div>
+</div>
+<p>Salto a la gran pantalla de <a href="https://www.espinof.com/tag/bobs-burgers">la querida serie animada</a> que ya va por su undécima temporada. Todos los actores de doblaje originales repiten presencia. Debería haberse estrenado el pasado verano y Disney la retrasó por el coronavirus, por lo que mejor no descartar que llegue directamente a Disney+.</p>
+<!-- BREAK 11 -->
+<p><strong>9 de abril</strong></p>
+<h2>'Un lugar tranquilo 2'</h2>
+<div class="article-asset-video article-asset-large article-asset-center">
+<div class="asset-content">
+<div class="base-asset-video">
+<iframe allowfullscreen="" height="366" src="//www.youtube.com/embed/XEMwSdne6UE" width="650"></iframe>
+</div>
+</div>
+</div>
+<p>Seguimos con estrenos de 2020 retrasados a 2021 por la pandemia. La primera entrega fue una de las películas de terror salidas de Hollywood más estimulantes de los últimos años, ¿conseguirá John Krasinski una secuela a la altura? Por lo pronto lo perdemos a él delante de las cámaras (detrás sí que sigue) pero ganamos a Cillian Murphy.</p>
+<!-- BREAK 12 -->
+<p><strong>23 de abril</strong></p>
+<h2>'Last Night in Soho'</h2>
+<div class="article-asset-image article-asset-large">
+<div class="asset-content">
+<img alt="Soho" class="sf-lazy" data-sf-src="https://i.blogs.es/f9c0f2/soho/450_1000.jpeg" data-sf-srcset="https://i.blogs.es/f9c0f2/soho/450_1000.jpeg 450w, https://i.blogs.es/f9c0f2/soho/650_1200.jpeg 681w,https://i.blogs.es/f9c0f2/soho/1024_2000.jpeg 1024w, https://i.blogs.es/f9c0f2/soho/1366_2000.jpeg 1366w,"/>
+<noscript><img alt="Soho" class="" src="https://i.blogs.es/f9c0f2/soho/450_1000.jpeg"/></noscript>
+</div>
+</div>
+<p><a href="https://www.espinof.com/directores-y-guionistas/nueva-pelicula-edgar-wright-thriller-terror-inspirado-amenaza-sombra-repulsion">La nueva película de Edgar Wright</a> es un thriller sobre una mujer que conoce a su ídolo en los años 60 en Londres, a donde llega de forma misteriosa.  Anya Taylor-Joy, Thomasin Harcourt McKenzie, Matt Smith, la tristemente fallecida Diana Rigg y Terence Stamp lideran su reparto.</p>
+<!-- BREAK 13 -->
+<p><strong>23 de abril</strong></p>
+<h2>'Viuda negra'</h2>
+<div class="article-asset-video article-asset-large article-asset-center">
+<div class="asset-content">
+<div class="base-asset-video">
+<div class="js-jw-player">
+<script type="application/json">
+     {"file":"https://webediaespana.video.content-hub.app/default/video/77/3a/92/5e66603e3bef0729c6/default-standard-720.mp4","image":"https://webediaespana.delivery.content-hub.app/image/7b/09/e2/5e6665bf4bd22f3ebb/original/viuda-negra-scarlett-trailer.jpeg"}
+    </script>
+</div>
+</div>
+</div>
+</div>
+<p><a href="https://www.espinof.com/tag/viuda-negra">La despedida</a> de Scarlett Johansson de una personaje que ayudó a catapultar de nuevo su carrera tras una etapa algo complicada. Al lado de la superheroína de Marvel tendremos a Florence Pugh, David Harbour, O-T Fagbenle, William Hurt, Ray Winstone y Rachel Weisz, mientras que Cate Shortland se ocupa de la puesta en escena.</p>
+<!-- BREAK 14 -->
+<p><strong>7 de mayo</strong></p>
+<div class="article-asset article-asset-normal article-asset-center">
+<div class="desvio-container">
+<div class="desvio">
+<div class="desvio-figure js-desvio-figure">
+<a href="https://www.espinof.com/listas/marvel-que-orden-conviene-ver-todas-peliculas-superheroes-mcu">
+<img alt="¡Vengadores, uníos! En qué orden conviene ver todas las películas del Universo Marvel" src="https://i.blogs.es/d93d8d/marvel/375_142.jpeg"/>
+</a>
+</div>
+<div class="desvio-summary">
+<div class="desvio-taxonomy js-desvio-taxonomy">
+<a class="desvio-taxonomy-anchor" href="https://www.espinof.com/listas/marvel-que-orden-conviene-ver-todas-peliculas-superheroes-mcu">En Espinof</a>
+</div>
+<a class="desvio-title js-desvio-title" href="https://www.espinof.com/listas/marvel-que-orden-conviene-ver-todas-peliculas-superheroes-mcu">¡Vengadores, uníos! En qué orden conviene ver todas las películas del Universo Marvel</a>
+</div>
+</div>
+</div>
+</div>
+<h2>'Spiral: Saw'</h2>
+<div class="article-asset-video article-asset-large article-asset-center">
+<div class="asset-content">
+<div class="base-asset-video">
+<div class="js-jw-player">
+<script type="application/json">
+     {"file":"https://webediaespana.video.content-hub.app/default/video/16/ac/e2/5e3b045d3bef072f9c/default-standard-720.mp4","image":"https://webediaespana.delivery.content-hub.app/image/52/46/c3/5e3b05c13bef072f91/original/spiral-trailer.jpeg"}
+    </script>
+</div>
+</div>
+</div>
+</div>
+<p><a href="https://www.espinof.com/tag/spiral-from-the-book-of-saw">Nueva entrega</a> de la franquicia 'Saw' que parte de una idea de Chris Rock, también gran protagonista de la función junto a Samuel L. Jackson y Max Minghella. La franquicia ya estaba agotado por la vía convencional, así que esperemos que esta película dirigida por Darren Lynn Bousman, quien ya se ocupó de la segunda, tercera y cuarta entregas, ofrezca un giro jugoso.</p>
+<!-- BREAK 15 -->
+<p><strong>21 de mayo</strong></p>
+<h2>'Godzilla vs. Kong'</h2>
+<div class="article-asset-image article-asset-large">
+<div class="asset-content">
+<img alt="Godzilla Kong" class="sf-lazy" data-sf-src="https://i.blogs.es/9228a8/godzilla-kong/450_1000.jpeg" data-sf-srcset="https://i.blogs.es/9228a8/godzilla-kong/450_1000.jpeg 450w, https://i.blogs.es/9228a8/godzilla-kong/650_1200.jpeg 681w,https://i.blogs.es/9228a8/godzilla-kong/1024_2000.jpeg 1024w, https://i.blogs.es/9228a8/godzilla-kong/1366_2000.jpeg 1366w,"/>
+<noscript><img alt="Godzilla Kong" class="" src="https://i.blogs.es/9228a8/godzilla-kong/450_1000.jpeg"/></noscript>
+</div>
+</div>
+<p>Adam Wingard dirige <a href="https://www.espinof.com/otros/godzilla-vs-kong-impresionante-primera-imagen-miticos-monstruos-combatiendo">el enfrentamiento</a> entre dos de los monstruos cinematográficos más míticos de todos los tiempos. Solo con eso ya estaría vendida, pero si os interesa saberlo, el reparto humano incluye, entre otros, a Alexander Skarsgård, Millie Bobby Brown, Rebecca Hall, Brian Tyree Henry, Shun Oguri, Eiza González, Jessica Henwick, Julian Dennison, Kyle Chandler y Demián Bichir.</p>
+<!-- BREAK 16 -->
+<p><strong>21 de mayo</strong></p>
+<h2>'Fast &amp; Furious 9'</h2>
+<div class="article-asset-video article-asset-large article-asset-center">
+<div class="asset-content">
+<div class="base-asset-video">
+<div class="js-jw-player">
+<script type="application/json">
+     {"file":"https://webediaespana.video.content-hub.app/default/video/66/9b/03/5e309d2b4bd22f4ea3/default-standard-720.mp4","image":"https://webediaespana.delivery.content-hub.app/image/60/1b/b3/5e34a8f84bd22f66dd/original/furious.jpeg"}
+    </script>
+</div>
+</div>
+</div>
+</div>
+<p><a href="https://www.espinof.com/tag/fast-and-furious-9">Una nueva disparatada</a> dosis de acción al servicio de la Familia encabezada por Vin Diesel. Se está hablando mucho de que aquí los personajes darán el salto y llegarán al espacio. Veremos. Dirige Justin Lin, el cineasta que relanzo la franquicia cuando pasaba por sus horas más bajas.</p>
+<!-- BREAK 17 -->
+<p><strong>28 de mayo</strong></p>
+<h2>'Cruella'</h2>
+<div class="article-asset-image article-asset-large">
+<div class="asset-content">
+<img alt="Cruella" class="sf-lazy" data-sf-src="https://i.blogs.es/d961ec/cruella/450_1000.jpeg" data-sf-srcset="https://i.blogs.es/d961ec/cruella/450_1000.jpeg 450w, https://i.blogs.es/d961ec/cruella/650_1200.jpeg 681w,https://i.blogs.es/d961ec/cruella/1024_2000.jpeg 1024w, https://i.blogs.es/d961ec/cruella/1366_2000.jpeg 1366w,"/>
+<noscript><img alt="Cruella" class="" src="https://i.blogs.es/d961ec/cruella/450_1000.jpeg"/></noscript>
+</div>
+</div>
+<p>Una <a href="https://www.espinof.com/tag/cruella">puesta al día de '101 dálmatas'</a> alrededor de una de las villanas más celebradas de Disney, interpretada para la ocasión por Emma Stone. Cruella de Vil es una joven diseñadora de moda en Londres durante los años 70 que se obsesiona con la piel de dálmata. Dirige Craig Gillispie y en el reparto también figuran Emma Thompson, Paul Walter Hauser, Joel Fry y Mark Strong.</p>
+<!-- BREAK 18 -->
+<p><strong>28 de mayo</strong></p>
+<div class="article-asset article-asset-normal article-asset-center">
+<div class="desvio-container">
+<div class="desvio">
+<div class="desvio-figure js-desvio-figure">
+<a href="https://www.espinof.com/listas/todos-remakes-accion-real-disney-ordenados-peor-a-mejor">
+<img alt="Todos los remakes en acción real de Disney ordenados de peor a mejor " src="https://i.blogs.es/76dace/remakes/375_142.jpeg"/>
+</a>
+</div>
+<div class="desvio-summary">
+<div class="desvio-taxonomy js-desvio-taxonomy">
+<a class="desvio-taxonomy-anchor" href="https://www.espinof.com/listas/todos-remakes-accion-real-disney-ordenados-peor-a-mejor">En Espinof</a>
+</div>
+<a class="desvio-title js-desvio-title" href="https://www.espinof.com/listas/todos-remakes-accion-real-disney-ordenados-peor-a-mejor">Todos los remakes en acción real de Disney ordenados de peor a mejor </a>
+</div>
+</div>
+</div>
+</div>
+<h2>'Expediente Warren: Obligado por el demonio'</h2>
+<div class="article-asset-image article-asset-large">
+<div class="asset-content">
+<img alt="Matrimonio Warren" class="sf-lazy" data-sf-src="https://i.blogs.es/b0a0a7/matrimonio-warren/450_1000.jpeg" data-sf-srcset="https://i.blogs.es/b0a0a7/matrimonio-warren/450_1000.jpeg 450w, https://i.blogs.es/b0a0a7/matrimonio-warren/650_1200.jpeg 681w,https://i.blogs.es/b0a0a7/matrimonio-warren/1024_2000.jpeg 1024w, https://i.blogs.es/b0a0a7/matrimonio-warren/1366_2000.jpeg 1366w,"/>
+<noscript><img alt="Matrimonio Warren" class="" src="https://i.blogs.es/b0a0a7/matrimonio-warren/450_1000.jpeg"/></noscript>
+</div>
+</div>
+<p><a href="https://www.espinof.com/proyectos/expediente-warren-3-titulo-oficial-primeros-detalles-nueva-pelicula-warrenverso">Tercera entrega</a> de las terroríficas aventuras del matrimonio Warren interpretado por Vera Farmiga y Patrick Wilson. Eso sí, el gran miedo que provoca la película está en el hecho de que tras las cámaras tenemos a Michael Chaves en lugar de a James Wan...</p>
+<!-- BREAK 19 -->
+<p><strong>4 de junio</strong></p>
+<h2>'Venom: Habrá Matanza'</h2>
+<div class="article-asset-image article-asset-large">
+<div class="asset-content">
+<img alt="Matanza" class="sf-lazy" data-sf-src="https://i.blogs.es/d73382/matanza/450_1000.jpeg" data-sf-srcset="https://i.blogs.es/d73382/matanza/450_1000.jpeg 450w, https://i.blogs.es/d73382/matanza/650_1200.jpeg 681w,https://i.blogs.es/d73382/matanza/1024_2000.jpeg 1024w, https://i.blogs.es/d73382/matanza/1366_2000.jpeg 1366w,"/>
+<noscript><img alt="Matanza" class="" src="https://i.blogs.es/d73382/matanza/450_1000.jpeg"/></noscript>
+</div>
+</div>
+<p>Tom Hardy repite como el antihéroe del universo Spider-Man. En la primera entrega él fue lo único rescatable de la función, pero aquí la saga recibe savia nueva con la llegada de Woody Harrelson para dar vida a un formidable enemigo de Venom y de Andy Serkis para sustituir a Ruben Fleischer en la silla del director.</p>
+<!-- BREAK 20 -->
+<p><strong>25 de junio</strong></p>
+<h2>'Top Gun: Maverick'</h2>
+<div class="article-asset-video article-asset-large article-asset-center">
+<div class="asset-content">
+<div class="base-asset-video">
+<iframe allowfullscreen="" height="366" src="//www.youtube.com/embed/qSqVVswa420" width="650"></iframe>
+</div>
+</div>
+</div>
+<p>Tom Cruise recupera uno de sus personajes más míticos 35 años después del estreno de la primera entrega, contando también con el regreso de Val Kilmer. <a href="https://www.espinof.com/fecha-de-estreno/top-gun-maverick-fecha-estreno-trailer-reparto-pelicula-protagonizada-tom-cruise">Aquí Maverick</a> verá cómo su vida sufre un vuelco cuando su camino se cruza con el del hijo de su antiguo mejor amigo que cuenta con el rostro de Miles Teller.</p>
+<!-- BREAK 21 -->
+<p><strong>2 de julio</strong></p>
+<h2>'Minions: El origen de Gru'</h2>
+<div class="article-asset-video article-asset-large article-asset-center">
+<div class="asset-content">
+<div class="base-asset-video">
+<div class="js-jw-player">
+<script type="application/json">
+     {"file":"https://webediaespana.video.content-hub.app/default/video/48/f0/32/5e3b3dd83bef072f84/default-standard-720.mp4","image":"https://webediaespana.delivery.content-hub.app/image/3e/bf/73/5e3b3ef14bd22f2b4f/original/minions-unipics-1080x793-mobile-5e34c87c270e5-1.jpeg"}
+    </script>
+</div>
+</div>
+</div>
+</div>
+<p><a href="https://www.espinof.com/trailers/trailer-minions-origen-gru-nueva-secuela-animada-adorables-criaturas-illumination">Secuela del divertido spin-off</a> dedicado a estas simpáticas criaturas amarillas que de por sí era más entretenida que cualquier entrega de la franquicia 'Gru'. Aquí conoceremos los orígenes de nuestro villano favorito cuando aún contaba con 12 años de edad.</p>
+<!-- BREAK 22 -->
+<p><strong>2 de julio</strong></p>
+<h2>'Shang-Chi and the Legend of the Ten Rings'</h2>
+<div class="article-asset-image article-asset-large">
+<div class="asset-content">
+<img alt="Shang" class="sf-lazy" data-sf-src="https://i.blogs.es/7043cf/shang/450_1000.jpeg" data-sf-srcset="https://i.blogs.es/7043cf/shang/450_1000.jpeg 450w, https://i.blogs.es/7043cf/shang/650_1200.jpeg 681w,https://i.blogs.es/7043cf/shang/1024_2000.jpeg 1024w, https://i.blogs.es/7043cf/shang/1366_2000.jpeg 1366w,"/>
+<noscript><img alt="Shang" class="" src="https://i.blogs.es/7043cf/shang/450_1000.jpeg"/></noscript>
+</div>
+</div>
+<p><a href="https://www.espinof.com/tag/shang-chi">Nueva película</a> del universo cinematográfico de Marvel que tendrá el honor de introducir al primer superhéroe asiático del mismo. Parte de un personaje inspirado en Bruce Lee muy dotado para las artes marciales que además es capaz de crear réplicas de sí mismo. Dirige Destin Daniel Cretton y sus protagonistas tendrán los rostros de Simu Liu y Tony Leung.</p>
+<!-- BREAK 23 -->
+<p><strong>9 de julio</strong></p>
+<h2>'The Forever Purge'</h2>
+<div class="article-asset-image article-asset-large">
+<div class="asset-content">
+<img alt="Purge" class="sf-lazy" data-sf-src="https://i.blogs.es/dca1fa/purge/450_1000.jpeg" data-sf-srcset="https://i.blogs.es/dca1fa/purge/450_1000.jpeg 450w, https://i.blogs.es/dca1fa/purge/650_1200.jpeg 681w,https://i.blogs.es/dca1fa/purge/1024_2000.jpeg 1024w, https://i.blogs.es/dca1fa/purge/1366_2000.jpeg 1366w,"/>
+<noscript><img alt="Purge" class="" src="https://i.blogs.es/dca1fa/purge/450_1000.jpeg"/></noscript>
+</div>
+</div>
+<p><a href="https://www.espinof.com/proyectos/the-purge-5-tiene-fecha-estreno-saga-noche-bestias-llegara-a-su-fin-2020">Última entrega</a> de la franquicia de cuyo argumento no se sabe prácticamente nada hasta la fecha. Everardo Gout se encarga de la puesta en escena y Ana de la Reguera, Josh Lucas, Tenoch Huerta, Leven Rambin, Will Patton y Cassidy Freeman dan vida a sus protagonistas</p>
+<!-- BREAK 24 -->
+<p><strong>9 de julio</strong></p>
+<h2>'Space Jam: A New Legacy'</h2>
+<div class="article-asset-image article-asset-large">
+<div class="asset-content">
+<img alt="Jam" class="sf-lazy" data-sf-src="https://i.blogs.es/de6ef2/jam/450_1000.jpeg" data-sf-srcset="https://i.blogs.es/de6ef2/jam/450_1000.jpeg 450w, https://i.blogs.es/de6ef2/jam/650_1200.jpeg 681w,https://i.blogs.es/de6ef2/jam/1024_2000.jpeg 1024w, https://i.blogs.es/de6ef2/jam/1366_2000.jpeg 1366w,"/>
+<noscript><img alt="Jam" class="" src="https://i.blogs.es/de6ef2/jam/450_1000.jpeg"/></noscript>
+</div>
+</div>
+<p>LeBron James sucede a Michael Jordan en <a href="https://www.espinof.com/proyectos/space-jam-2-tiene-nuevo-director-primera-imagen-lebron-james-tambien-quiere-ser-jordan-cine">esta segunda entrega</a> que promete devolver a primera línea a los personajes de Looney Tunes. Warner no ha comentado nada concreto sobre el argumento de esta película dirigida por Malcolm D. Lee, pero se sabe que Don Cheadle tendrá un papel de villano en la misma.</p>
+<!-- BREAK 25 -->
+<p><strong>16 de julio</strong></p>
+<h2>'Uncharted'</h2>
+<div class="article-asset-image article-asset-large">
+<div class="asset-content">
+<img alt="Uncharted" class="sf-lazy" data-sf-src="https://i.blogs.es/8c4a65/uncharted/450_1000.jpeg" data-sf-srcset="https://i.blogs.es/8c4a65/uncharted/450_1000.jpeg 450w, https://i.blogs.es/8c4a65/uncharted/650_1200.jpeg 681w,https://i.blogs.es/8c4a65/uncharted/1024_2000.jpeg 1024w, https://i.blogs.es/8c4a65/uncharted/1366_2000.jpeg 1366w,"/>
+<noscript><img alt="Uncharted" class="" src="https://i.blogs.es/8c4a65/uncharted/450_1000.jpeg"/></noscript>
+</div>
+</div>
+<p>El aclamado videojuego al fin <a href="https://www.espinof.com/tag/uncharted">llega a la gran pantalla</a> tras varios intentos que llevaron a pensar que nunca se concretaría. Tom Holland se mete en la piel del aventurero Nathan Drake en lo que podría ser perfectamente el inicio de una nueva franquicia a lo Indiana Jones. Le acompañan Mark Wahlberg y Antonio Banderas, mientras que Ruben Fleischer se ocupa de la puesta en escena.</p>
+<!-- BREAK 26 -->
+<p><strong>16 de julio</strong></p>
+<h2>'Luca'</h2>
+<div class="article-asset-image article-asset-large">
+<div class="asset-content">
+<img alt="Luca" class="sf-lazy" data-sf-src="https://i.blogs.es/f6c8fe/luca/450_1000.jpeg" data-sf-srcset="https://i.blogs.es/f6c8fe/luca/450_1000.jpeg 450w, https://i.blogs.es/f6c8fe/luca/650_1200.jpeg 681w,https://i.blogs.es/f6c8fe/luca/1024_2000.jpeg 1024w, https://i.blogs.es/f6c8fe/luca/1366_2000.jpeg 1366w,"/>
+<noscript><img alt="Luca" class="" src="https://i.blogs.es/f6c8fe/luca/450_1000.jpeg"/></noscript>
+</div>
+</div>
+<p><a href="https://www.espinof.com/proyectos/pixar-presenta-su-nueva-pelicula-luca-sera-aventura-estival-ambientada-riviera-italiana">Nueva película original de Pixar</a> que cuenta la historia de un muchacho que vive un verano inolvidable en la Riviera italiana junto a su nuevo amigo, pero todo corre el riesgo de saltar por los aires por un curioso secreto: él es en realidad es un monstruo marino de otro mundo ubicado justo debajo de la superficie del agua.</p>
+<!-- BREAK 27 -->
+<p><strong>23 de julio</strong></p>
+<h2>'Old'</h2>
+<div class="article-asset-image article-asset-large">
+<div class="asset-content">
+<img alt="Old" class="sf-lazy" data-sf-src="https://i.blogs.es/9f5fdb/old/450_1000.jpeg" data-sf-srcset="https://i.blogs.es/9f5fdb/old/450_1000.jpeg 450w, https://i.blogs.es/9f5fdb/old/650_1200.jpeg 681w,https://i.blogs.es/9f5fdb/old/1024_2000.jpeg 1024w, https://i.blogs.es/9f5fdb/old/1366_2000.jpeg 1366w,"/>
+<noscript><img alt="Old" class="" src="https://i.blogs.es/9f5fdb/old/450_1000.jpeg"/></noscript>
+</div>
+</div>
+<p><a href="https://www.espinof.com/en-rodaje/m-night-shyamalan-rueda-old-poster-primeros-detalles-su-nueva-pelicula-universal-pictures">La nueva película</a> de M. Night Shyamalan. No debería hacer falta saber más sobre ella para querer verla, pero si necesitáis más datos: es la adaptación del cómic francés 'Sancdastle' en la que un grupo de gente encuentra un cadáver en la playa y poco después se dan cuenta de que algo extraño sucede en el mar...</p>
+<!-- BREAK 28 -->
+<p><strong>Estreno previsto en julio de 2021</strong></p>
+<h2>'Jungle Cruise'</h2>
+<div class="article-asset-video article-asset-large article-asset-center">
+<div class="asset-content">
+<div class="base-asset-video">
+<div class="js-jw-player">
+<script type="application/json">
+     {"file":"https://webediaespana.video.content-hub.app/default/video/2b/a5/32/5e67c3be3bef0729a6/default-standard-720.mp4","image":"https://webediaespana.delivery.content-hub.app/image/0c/47/52/5e67c7544bd22f04d0/original/jungle-cruise.jpeg"}
+    </script>
+</div>
+</div>
+</div>
+</div>
+<p>Dwayne Johnson y Emily Blunt lideran <a href="https://www.espinof.com/tag/jungle-cruise">esta película</a> basada en una popular atracción de los parques temáticos de Disney. El objetivo de este primer blockbuster dirigido por Jaume Collet-Serra será intentar encontrar un árbol al que se atribuyen propiedades curativas.</p>
+<!-- BREAK 29 -->
+<p><strong>6 de agosto</strong></p>
+<h2>'El Escuadrón Suicida'</h2>
+<div class="article-asset-video article-asset-large article-asset-center">
+<div class="asset-content">
+<div class="base-asset-video">
+<div class="js-jw-player">
+<script type="application/json">
+     {"file":"https://webediaespana.video.content-hub.app/default/video/5e/3a/f2/5f4179834bd22f919e/default-standard-720.mp4","image":"https://webediaespana.delivery.content-hub.app/image/2a/9e/83/5f41797f3bef0764ad/original/suicide.jpeg"}
+    </script>
+</div>
+</div>
+</div>
+</div>
+<p><a href="https://www.espinof.com/trailers/the-suicide-squad-primer-adelanto-presentacion-personajes-nueva-locura-james-gunn-para-dc">Nueva entrega</a> de este peculiar grupo de "superhéroes" de DC en la que Viola Davis, Joel Kinnaman, Margot Robbie o Jai Courtney retoman sus personajes, pero además se suman Michael Rooker, Flula Borg, David Dastmalchian, Daniela Melchior, Idris Elba, Steve Agee, Mayling Ng, Peter Capaldi, Alice Braga, Pete Davidson, Nathan Fillion, Sean Gunn, John Cena y Juan Diego Botto. Poca broma, que además la puesta en escena corre a cargo de James Gunn.</p>
+<!-- BREAK 30 -->
+<p><strong>6 de agosto</strong></p>
+<div class="article-asset article-asset-normal article-asset-center">
+<div class="desvio-container">
+<div class="desvio">
+<div class="desvio-figure js-desvio-figure">
+<a href="https://www.espinof.com/listas/todas-peliculas-universo-dc-ordenadas-peor-a-mejor">
+<img alt="Todas las películas del Universo Extendido de DC, ordenadas de peor a mejor" src="https://i.blogs.es/41594b/dc/375_142.jpg"/>
+</a>
+</div>
+<div class="desvio-summary">
+<div class="desvio-taxonomy js-desvio-taxonomy">
+<a class="desvio-taxonomy-anchor" href="https://www.espinof.com/listas/todas-peliculas-universo-dc-ordenadas-peor-a-mejor">En Espinof</a>
+</div>
+<a class="desvio-title js-desvio-title" href="https://www.espinof.com/listas/todas-peliculas-universo-dc-ordenadas-peor-a-mejor">Todas las películas del Universo Extendido de DC, ordenadas de peor a mejor</a>
+</div>
+</div>
+</div>
+</div>
+<h2>'El otro guardaespaldas 2'</h2>
+<div class="article-asset-image article-asset-large">
+<div class="asset-content">
+<img alt="Guardaespaldas" class="sf-lazy" data-sf-src="https://i.blogs.es/dafef4/guardaespaldas/450_1000.jpeg" data-sf-srcset="https://i.blogs.es/dafef4/guardaespaldas/450_1000.jpeg 450w, https://i.blogs.es/dafef4/guardaespaldas/650_1200.jpeg 681w,https://i.blogs.es/dafef4/guardaespaldas/1024_2000.jpeg 1024w, https://i.blogs.es/dafef4/guardaespaldas/1366_2000.jpeg 1366w,"/>
+<noscript><img alt="Guardaespaldas" class="" src="https://i.blogs.es/dafef4/guardaespaldas/450_1000.jpeg"/></noscript>
+</div>
+</div>
+<p><a href="https://www.espinof.com/proyectos/el-otro-guardaespaldas-tendra-secuela-con-un-nuevo-personaje-aun-mas-loco-que-los-protagonistas">Secuela</a> de la divertida comedia de acción que reunía a Ryan Reynolds y Samuel L. Jackson. Aquí la acción se sitúa cuatro años después y el objetivo será salvar a Sonia, la esposa en la ficción del segundo interpretada por Salma Hayek. Patrick Hughes repite tras las cámaras.</p>
+<!-- BREAK 31 -->
+<p><strong>20 de agosto</strong></p>
+<h2>'Way Down'</h2>
+<div class="article-asset-video article-asset-large article-asset-center">
+<div class="asset-content">
+<div class="base-asset-video">
+<iframe allowfullscreen="" height="366" src="//www.youtube.com/embed/Jm4wq5tupiI" width="650"></iframe>
+</div>
+</div>
+</div>
+<p>Ya apuntaba a película española más ambiciosa de 2020 antes de que Mediaset decidiera retrasar su lanzamiento. <a href="https://www.espinof.com/trailers/espectacular-trailer-way-down-ensena-a-balaguero-insolito-thriller-atracos-freddie-highmore">Un thriller</a> de robos de corte internacional con Jaume Balagueró tras las cámaras y Freddie Highmore -<a href="https://www.espinof.com/tag/the-good-doctor">'The Good Doctor'</a>- dando vida al protagonista de la función.</p>
+<!-- BREAK 32 -->
+<p><strong>24 de septiembre</strong></p>
+<h2>'Dune'</h2>
+<div class="article-asset-video article-asset-large article-asset-center">
+<div class="asset-content">
+<div class="base-asset-video">
+<div class="js-jw-player">
+<script type="application/json">
+     {"file":"https://webediaespana.video.content-hub.app/default/video/21/7f/82/5f59035e4bd22f8e93/default-standard-720.mp4","image":"https://webediaespana.delivery.content-hub.app/image/23/ac/93/5f59048b4bd22f8ea5/original/dune-trailer-fecha-de-estreno.jpeg"}
+    </script>
+</div>
+</div>
+</div>
+</div>
+<p><a href="https://www.espinof.com/fecha-de-estreno/dune-fecha-estreno-trailer-reparto-pelicula-dirigida-denis-villeneuve">Esta nueva adaptación</a> de la aclamada novela de Frank Herbert promete ser una película de ciencia-ficción imprescindible. Ojo al repartazo de la cinta dirigida por Denis Villeneuve: Timothée Chalamet, Rebecca Ferguson, Oscar Isaac, Josh Brolin, Stellan Skarsgård, Dave Bautista, Stephen McKinley Henderson, Zendaya, David Dastmalchian, Chang Chen, Sharon Duncan-Brewster, Charlotte Rampling, Jason Momoa y Javier Bardem.</p>
+<!-- BREAK 33 -->
+<p><strong>1 de octubre</strong></p>
+<h2>'Halloween Kills'</h2>
+<div class="article-asset-video article-asset-large article-asset-center">
+<div class="asset-content">
+<div class="base-asset-video">
+<div class="js-jw-player">
+<script type="application/json">
+     {"file":"https://webediaespana.video.content-hub.app/default/video/3e/59/32/5f0609144bd22f392c/default-standard-720.mp4","image":"https://webediaespana.delivery.content-hub.app/image/39/62/a3/5f0608ff4bd22f3928/original/halloween.png"}
+    </script>
+</div>
+</div>
+</div>
+</div>
+<p>Jamie Lee Curtis volverá a enfrentarse una vez más al temible Michael Myers en esta duodécima película de la franquicia iniciada por John Carpenter. La anterior fue un gran éxito para Blumhouse y ya está confirmada otra más para 2022.</p>
+<!-- BREAK 34 -->
+<p><strong>15 de octubre</strong></p>
+<h2>'The Last Duel'</h2>
+<div class="article-asset-image article-asset-large">
+<div class="asset-content">
+<img alt="Last Duel" class="sf-lazy" data-sf-src="https://i.blogs.es/eae36b/last-duel/450_1000.jpeg" data-sf-srcset="https://i.blogs.es/eae36b/last-duel/450_1000.jpeg 450w, https://i.blogs.es/eae36b/last-duel/650_1200.jpeg 681w,https://i.blogs.es/eae36b/last-duel/1024_2000.jpeg 1024w, https://i.blogs.es/eae36b/last-duel/1366_2000.jpeg 1366w,"/>
+<noscript><img alt="Last Duel" class="" src="https://i.blogs.es/eae36b/last-duel/450_1000.jpeg"/></noscript>
+</div>
+</div>
+<p>Ridley Scott <a href="https://www.espinof.com/proyectos/ben-affleck-matt-damon-se-reunen-nuevo-the-last-duel-proxima-pelicula-ridley-scott">dirige a Ben Affleck y Matt Damon</a> en una película escrita también estos dos últimos que cuenta además con la participación de Adam Driver y Jodie Comer. En ella viajaremos al siglo XIV para conocer la historia de dos amigos franceses obligados a enfrentarse cuando uno de ellos es acusado de violar a la mujer del otro.</p>
+<!-- BREAK 35 -->
+<p><strong>15 de octubre en Estados Unidos</strong></p>
+<h2>'Eternals'</h2>
+<div class="article-asset-image article-asset-large">
+<div class="asset-content">
+<img alt="Eternals" class="sf-lazy" data-sf-src="https://i.blogs.es/9e950e/eternals/450_1000.jpeg" data-sf-srcset="https://i.blogs.es/9e950e/eternals/450_1000.jpeg 450w, https://i.blogs.es/9e950e/eternals/650_1200.jpeg 681w,https://i.blogs.es/9e950e/eternals/1024_2000.jpeg 1024w, https://i.blogs.es/9e950e/eternals/1366_2000.jpeg 1366w,"/>
+<noscript><img alt="Eternals" class="" src="https://i.blogs.es/9e950e/eternals/450_1000.jpeg"/></noscript>
+</div>
+</div>
+<p>Richard Madden, Gemma Chan, Kumail Nanjiani, Lauren Ridloff, Brian Tyree Henry, Salma Hayek, Lia McHugh, Don Lee, Barry Keoghan, Angelina Jolie y Kit Harington encabezan el reparto de <a href="https://www.espinof.com/tag/eternals">esta película de superhéroes</a> de Marvel que reúne a los miembros de una raza inmortal que lleva años habitando en nuestra Tierra para evitar el ataque de los temibles Deviants. Dirige Chloé Zhao</p>
+<!-- BREAK 36 -->
+<p><strong>5 de noviembre</strong></p>
+<div class="article-asset article-asset-normal article-asset-center">
+<div class="desvio-container">
+<div class="desvio">
+<div class="desvio-figure js-desvio-figure">
+<a href="https://www.espinof.com/otros/de-iron-man-a-thor-ragnarok-todo-el-universo-cinematico-marvel-de-peor-a-mejor">
+<img alt="Todas las películas del Universo Marvel ordenadas de peor a mejor" src="https://i.blogs.es/4c39c7/cabeceramcu/375_142.jpg"/>
+</a>
+</div>
+<div class="desvio-summary">
+<div class="desvio-taxonomy js-desvio-taxonomy">
+<a class="desvio-taxonomy-anchor" href="https://www.espinof.com/otros/de-iron-man-a-thor-ragnarok-todo-el-universo-cinematico-marvel-de-peor-a-mejor">En Espinof</a>
+</div>
+<a class="desvio-title js-desvio-title" href="https://www.espinof.com/otros/de-iron-man-a-thor-ragnarok-todo-el-universo-cinematico-marvel-de-peor-a-mejor">Todas las películas del Universo Marvel ordenadas de peor a mejor</a>
+</div>
+</div>
+</div>
+</div>
+<h2>'Untitled Elvis Presley Project'</h2>
+<div class="article-asset-image article-asset-large">
+<div class="asset-content">
+<img alt="Elvis Presley" class="sf-lazy" data-sf-src="https://i.blogs.es/9e808d/elvis_presley/450_1000.jpeg" data-sf-srcset="https://i.blogs.es/9e808d/elvis_presley/450_1000.jpeg 450w, https://i.blogs.es/9e808d/elvis_presley/650_1200.jpeg 681w,https://i.blogs.es/9e808d/elvis_presley/1024_2000.jpeg 1024w, https://i.blogs.es/9e808d/elvis_presley/1366_2000.jpeg 1366w,"/>
+<noscript><img alt="Elvis Presley" class="" src="https://i.blogs.es/9e808d/elvis_presley/450_1000.jpeg"/></noscript>
+</div>
+</div>
+<p>El regreso al cine de Baz Luhrmann contará el ascenso a la fama del mítico Elvis Presley a partir de los ojos de su agente. Tom Hanks da vida a este último personaje, mientras que el rey del rock tendrá el rostro del poco conocido Austin Butler.</p>
+<!-- BREAK 37 -->
+<p><strong>5 de noviembre</strong></p>
+<h2>'Animales fantásticos 3'</h2>
+<div class="article-asset-image article-asset-large">
+<div class="asset-content">
+<img alt="Depp" class="sf-lazy" data-sf-src="https://i.blogs.es/186ad3/depp/450_1000.jpeg" data-sf-srcset="https://i.blogs.es/186ad3/depp/450_1000.jpeg 450w, https://i.blogs.es/186ad3/depp/650_1200.jpeg 681w,https://i.blogs.es/186ad3/depp/1024_2000.jpeg 1024w, https://i.blogs.es/186ad3/depp/1366_2000.jpeg 1366w,"/>
+<noscript><img alt="Depp" class="" src="https://i.blogs.es/186ad3/depp/450_1000.jpeg"/></noscript>
+</div>
+</div>
+<p><a href="https://www.espinof.com/tag/animales-fantasticos-3">Tercera entrega</a> de esta franquicia precuela de Harry Potter situada en Brasil varios años de la segunda y que abordará la implicación de la comunidad mágica en la II Guerra Mundial. Jude Law, Eddie Redmayne, Johnny Depp, Katherine Waterston, Dan Fogler ,Alison Sudol, Ezra Miller y Jessica Williams encabezan el reparto.</p>
+<!-- BREAK 38 -->
+<p><strong>12 de noviembre</strong></p>
+<h2>'Misión Imposible 7'</h2>
+<div class="article-asset-image article-asset-large">
+<div class="asset-content">
+<img alt="Mision Imposible 7" class="sf-lazy" data-sf-src="https://i.blogs.es/154a9f/mision-imposible-7/450_1000.jpeg" data-sf-srcset="https://i.blogs.es/154a9f/mision-imposible-7/450_1000.jpeg 450w, https://i.blogs.es/154a9f/mision-imposible-7/650_1200.jpeg 681w,https://i.blogs.es/154a9f/mision-imposible-7/1024_2000.jpeg 1024w, https://i.blogs.es/154a9f/mision-imposible-7/1366_2000.jpeg 1366w,"/>
+<noscript><img alt="Mision Imposible 7" class="" src="https://i.blogs.es/154a9f/mision-imposible-7/450_1000.jpeg"/></noscript>
+</div>
+</div>
+<p><a href="https://www.espinof.com/tag/mision-imposible-7">La séptima aventura</a> de Tom Cruise como el infalible espía Ethan Hunt y que no os sorprenda si es la penúltima, ya que se está rodando en paralelo a la octava entrega, que servirá de continuación directa a la que ahora nos ocupa. Huele a despedida a lo grande.</p>
+<!-- BREAK 39 -->
+<p><strong>19 de noviembre</strong></p>
+<h2>'Gucci'</h2>
+<div class="article-asset-image article-asset-large">
+<div class="asset-content">
+<img alt="Gucci" class="sf-lazy" data-sf-src="https://i.blogs.es/cf6540/gucci/450_1000.jpeg" data-sf-srcset="https://i.blogs.es/cf6540/gucci/450_1000.jpeg 450w, https://i.blogs.es/cf6540/gucci/650_1200.jpeg 681w,https://i.blogs.es/cf6540/gucci/1024_2000.jpeg 1024w, https://i.blogs.es/cf6540/gucci/1366_2000.jpeg 1366w,"/>
+<noscript><img alt="Gucci" class="" src="https://i.blogs.es/cf6540/gucci/450_1000.jpeg"/></noscript>
+</div>
+</div>
+<p>Lady Gaga, Adam Driver, Jared Leto, Al Pacino, Robert De Niro, Jack Huston y Reeve Carney lideran esta película de Ridley Scott -el cineasta está que no para últimamente- alrededor del asesinato de Maurizio Gucci en 1995 ordenado por su su ex mujer Patrizia Reggiani.</p>
+<!-- BREAK 40 -->
+<p><strong>26 de noviembre</strong></p>
+<h2>'West Side Story'</h2>
+<div class="article-asset-image article-asset-large">
+<div class="asset-content">
+<img alt="West Side Story" class="sf-lazy" data-sf-src="https://i.blogs.es/9e7e80/west-side-story/450_1000.jpeg" data-sf-srcset="https://i.blogs.es/9e7e80/west-side-story/450_1000.jpeg 450w, https://i.blogs.es/9e7e80/west-side-story/650_1200.jpeg 681w,https://i.blogs.es/9e7e80/west-side-story/1024_2000.jpeg 1024w, https://i.blogs.es/9e7e80/west-side-story/1366_2000.jpeg 1366w,"/>
+<noscript><img alt="West Side Story" class="" src="https://i.blogs.es/9e7e80/west-side-story/450_1000.jpeg"/></noscript>
+</div>
+</div>
+<p><a href="https://www.espinof.com/en-rodaje/west-side-story-steven-spielberg-aqui-esta-primera-imagen-remake-mitico-musical">Nueva versión</a> de uno de los musicales más populares de la historia del cine que cuenta con el aliciente adicional de la presencia de Steven Spielberg tras las cámaras. Tony y Maria tienen aquí los rostros de Ansel Elgort y la debutante Rachel Zegler.</p>
+<!-- BREAK 41 -->
+<p><strong>10 de diciembre</strong></p>
+<h2>Secuela de 'Spider-Man: Lejos de casa'</h2>
+<div class="article-asset-image article-asset-large">
+<div class="asset-content">
+<img alt="Spiderman" class="sf-lazy" data-sf-src="https://i.blogs.es/7a4afb/spiderman/450_1000.jpeg" data-sf-srcset="https://i.blogs.es/7a4afb/spiderman/450_1000.jpeg 450w, https://i.blogs.es/7a4afb/spiderman/650_1200.jpeg 681w,https://i.blogs.es/7a4afb/spiderman/1024_2000.jpeg 1024w, https://i.blogs.es/7a4afb/spiderman/1366_2000.jpeg 1366w,"/>
+<noscript><img alt="Spiderman" class="" src="https://i.blogs.es/7a4afb/spiderman/450_1000.jpeg"/></noscript>
+</div>
+</div>
+<p>La tercera aventura en solitario del trepamuros interpretado por Tom Holland promete ser la llegada definitiva del multiverso. Ya está confirmada la participación tanto de Benedict Cumberbatch como de Jamie Foxx, quien <a href="https://www.espinof.com/proyectos/jamie-foxx-volvera-a-ser-electro-tercera-pelicula-spider-man-protagonizada-tom-holland">retomará el papel de Electro</a>, villano al que dio vida en 'The Amazing Spider-Man 2'.</p>
+<!-- BREAK 42 -->
+<p><strong>17 de diciembre</strong></p>
+<h2>'Matrix 4'</h2>
+<div class="article-asset-image article-asset-large">
+<div class="asset-content">
+<img alt="Matrix" class="sf-lazy" data-sf-src="https://i.blogs.es/cd9467/matrix/450_1000.jpeg" data-sf-srcset="https://i.blogs.es/cd9467/matrix/450_1000.jpeg 450w, https://i.blogs.es/cd9467/matrix/650_1200.jpeg 681w,https://i.blogs.es/cd9467/matrix/1024_2000.jpeg 1024w, https://i.blogs.es/cd9467/matrix/1366_2000.jpeg 1366w,"/>
+<noscript><img alt="Matrix" class="" src="https://i.blogs.es/cd9467/matrix/450_1000.jpeg"/></noscript>
+</div>
+</div>
+<p>Toda una incógnita lo que nos tiene reservado Lana Wachowski en <a href="https://www.espinof.com/tag/matrix-4">una película</a> que recupera a los personajes interpretados por Keanu Reeves, Carrie-Anne Moss, Jada Pinkett Smith y Lambert Wilson en las anteriores entregas de la saga. A ellos se suman Daniel Bernhardt, Yahya Abdul-Mateen II, Neil Patrick Harris, Jessica Henwick, Jonathan Groff, Toby Onwumere, Max Riemelt, Eréndira Ibarra, Priyanka Chopra, Andrew Caldwell, Brian J. Smith y Ellen Hollman.</p>
+<!-- BREAK 43 -->
+<p><strong>22 de diciembre</strong></p>
+<h2>'Sherlock Holmes 3'</h2>
+<div class="article-asset-image article-asset-large">
+<div class="asset-content">
+<img alt="Sherlock" class="sf-lazy" data-sf-src="https://i.blogs.es/a05f27/sherlock/450_1000.jpeg" data-sf-srcset="https://i.blogs.es/a05f27/sherlock/450_1000.jpeg 450w, https://i.blogs.es/a05f27/sherlock/650_1200.jpeg 681w,https://i.blogs.es/a05f27/sherlock/1024_2000.jpeg 1024w, https://i.blogs.es/a05f27/sherlock/1366_2000.jpeg 1366w,"/>
+<noscript><img alt="Sherlock" class="" src="https://i.blogs.es/a05f27/sherlock/450_1000.jpeg"/></noscript>
+</div>
+</div>
+<p>Robert Downey Jr. <a href="https://www.espinof.com/actores-y-actrices/robert-downey-jr-quiere-construir-universo-similar-al-marvel-franquicia-sherlock-holmes">ha dejado claro</a> que quiere aprovechar esta tercera entrega de la saga que lidera junto a Jude Law para iniciar un ambicioso universo cinematográfico. Ya veremos si lo consigue, pero esperemos que al menos esta cinta dirigida por Dexter Fletcher merezca la pena.</p>
+<!-- BREAK 44 -->
+<p><strong>22 de diciembre de 2021</strong></p>
+<h2>'The French Dispatch'</h2>
+<div class="article-asset-video article-asset-large article-asset-center">
+<div class="asset-content">
+<div class="base-asset-video">
+<div class="js-jw-player">
+<script type="application/json">
+     {"file":"https://webediaespana.video.content-hub.app/default/video/1d/a1/d3/5e44151d3bef074baa/default-standard-180.mp4","image":"https://webediaespana.delivery.content-hub.app/image/0a/74/62/5e4416483bef074bb5/original/anderson-french-dispatch-trailer.jpeg"}
+    </script>
+</div>
+</div>
+</div>
+</div>
+<p>La pandemia también nos ha hecho esperar más de la cuenta para ver <a href="https://www.espinof.com/tag/the-french-dispatch">la próxima película de Wes Anderson</a> con un asombroso reparto que incluye, entre otros, a Benicio del Toro, Adrien Brody, Tilda Swinton, Léa Seydoux, Frances McDormand, Timothée Chalamet, Lyna Khoudri, Jeffrey Wright, Mathieu Amalric, Steve Park, Bill Murray y Owen Wilson, Con ella, el cineasta quiere hacer una carta de amor al periodismo.</p>
+<!-- BREAK 45 -->
+<p><strong>Estreno previsto en 2021</strong></p>
+<h2>'Cherry'</h2>
+<div class="article-asset-image article-asset-large">
+<div class="asset-content">
+<img alt="Cherry" class="sf-lazy" data-sf-src="https://i.blogs.es/6b2087/cherry/450_1000.jpeg" data-sf-srcset="https://i.blogs.es/6b2087/cherry/450_1000.jpeg 450w, https://i.blogs.es/6b2087/cherry/650_1200.jpeg 681w,https://i.blogs.es/6b2087/cherry/1024_2000.jpeg 1024w, https://i.blogs.es/6b2087/cherry/1366_2000.jpeg 1366w,"/>
+<noscript><img alt="Cherry" class="" src="https://i.blogs.es/6b2087/cherry/450_1000.jpeg"/></noscript>
+</div>
+</div>
+<p><a href="https://www.espinof.com/tag/cherry">La primera película</a> de los Hermanos Russo tras <a href="https://www.espinof.com/criticas/vengadores-endgame-critica-spoilers-excelente-colofon-para-mcu-puntualmente-innovador-sobrado-epica">'Vengadores: Endgame'</a>. En ella vuelve a colaborar con Tom Holland para contar la historia real de Nico Walker, un médico del ejército que regresó a casa de la guerra de Iraq con un trastorno de estrés postraumático no diagnosticado. Esto le llevó inicialmente a desarrollar una adicción al opio y más tarde a robar bancos.</p>
+<!-- BREAK 46 -->
+<p><strong>Estreno previsto en 2021 en AppleTv+</strong></p>
+<h2>'Pinocchio'</h2>
+<div class="article-asset-image article-asset-large">
+<div class="asset-content">
+<img alt="Pinocho" class="sf-lazy" data-sf-src="https://i.blogs.es/f9146f/pinocho/450_1000.jpeg" data-sf-srcset="https://i.blogs.es/f9146f/pinocho/450_1000.jpeg 450w, https://i.blogs.es/f9146f/pinocho/650_1200.jpeg 681w,https://i.blogs.es/f9146f/pinocho/1024_2000.jpeg 1024w, https://i.blogs.es/f9146f/pinocho/1366_2000.jpeg 1366w,"/>
+<noscript><img alt="Pinocho" class="" src="https://i.blogs.es/f9146f/pinocho/450_1000.jpeg"/></noscript>
+</div>
+</div>
+<p><a href="https://www.espinof.com/actores-y-actrices/ewan-mcgregor-se-sube-al-pinocho-guillermo-toro-nueva-version-para-netflix-ha-encontrado-a-su-pepito-grillo">Adaptación de 'Pinocho' a cargo de Guillermo del Toro</a> utilizando la animación en stop-motion. Un proyecto muy querido del cineasta mexicano que contará en su versión original con las voces de Gregory Mann, Ewan McGregor, David Bradley, Ron Perlman, Tilda Swinton, Christoph Waltz, Cate Blanchett, Tim Blake Nelson, Finn Wolfhard, Burn Gorman y John Turturro.</p>
+<!-- BREAK 47 -->
+<p><strong>Estreno previsto en 2021 en Netflix</strong></p>
+<h2>'Red Notice'</h2>
+<div class="article-asset-image article-asset-large">
+<div class="asset-content">
+<img alt="Red Notice" class="sf-lazy" data-sf-src="https://i.blogs.es/969505/red-notice/450_1000.jpeg" data-sf-srcset="https://i.blogs.es/969505/red-notice/450_1000.jpeg 450w, https://i.blogs.es/969505/red-notice/650_1200.jpeg 681w,https://i.blogs.es/969505/red-notice/1024_2000.jpeg 1024w, https://i.blogs.es/969505/red-notice/1366_2000.jpeg 1366w,"/>
+<noscript><img alt="Red Notice" class="" src="https://i.blogs.es/969505/red-notice/450_1000.jpeg"/></noscript>
+</div>
+</div>
+<p>Vuelve a aparecer Ryan Reynolds en la lista, pero <a href="https://www.espinof.com/proyectos/red-notice-netflix-reune-a-gal-gadot-ryan-reynolds-dwayne-johnson-espectacular-thriller-atracos">en esta ocasión</a> estará acompañado por Dwayne Johnson y Gal Gadot en una de las producciones más ambiciosas de Netflix hasta la fecha. Aquí los tres se ponen a las órdenes de Rawson Marshall Thurber para contar la historia de una misión de la INTERPOL para dar con la mayor ladrona de arte del mundo.</p>
+<!-- BREAK 48 -->
+<p><strong>Estreno previsto en 2021 en Netflix</strong></p>
+<h2>'Army of the Dead'</h2>
+<div class="article-asset-image article-asset-large">
+<div class="asset-content">
+<img alt="Army Dead" class="sf-lazy" data-sf-src="https://i.blogs.es/60f8e9/army-dead/450_1000.jpeg" data-sf-srcset="https://i.blogs.es/60f8e9/army-dead/450_1000.jpeg 450w, https://i.blogs.es/60f8e9/army-dead/650_1200.jpeg 681w,https://i.blogs.es/60f8e9/army-dead/1024_2000.jpeg 1024w, https://i.blogs.es/60f8e9/army-dead/1366_2000.jpeg 1366w,"/>
+<noscript><img alt="Army Dead" class="" src="https://i.blogs.es/60f8e9/army-dead/450_1000.jpeg"/></noscript>
+</div>
+</div>
+<p>El ansiado regreso de Zack Snyder al cine de muertos vivientes que <a href="https://www.espinof.com/proyectos/army-of-the-dead-netflix-ampliara-universo-pelicula-zombis-zack-snyder-precuela-serie-animacion">además contará</a> como una precuela y una serie de animación para ampliar su universo. Esperemos que merezca la pena, que 'Amanecer de los muertos' sigue siendo la mejor película de su director, quien aquí cuenta con un reparto encabezado por Dave Bautista, Ella Purnell, Ana de la Reguera, Garret Dillahunt, Raul Castillo, Omari Hardwick, Hiroyuki Sanada, Tig Notaro y Matthias Schweighöfer</p>
+<!-- BREAK 49 -->
+<p><strong>Estreno previsto en 2021 en Netflix</strong></p>
+<h2>'Blonde'</h2>
+<div class="article-asset-image article-asset-large">
+<div class="asset-content">
+<img alt="Blonde" class="sf-lazy" data-sf-src="https://i.blogs.es/dd6c4e/blonde/450_1000.jpeg" data-sf-srcset="https://i.blogs.es/dd6c4e/blonde/450_1000.jpeg 450w, https://i.blogs.es/dd6c4e/blonde/650_1200.jpeg 681w,https://i.blogs.es/dd6c4e/blonde/1024_2000.jpeg 1024w, https://i.blogs.es/dd6c4e/blonde/1366_2000.jpeg 1366w,"/>
+<noscript><img alt="Blonde" class="" src="https://i.blogs.es/dd6c4e/blonde/450_1000.jpeg"/></noscript>
+</div>
+</div>
+<p>Ana de Armas se convertirá en Marilyn Monroe en este biopic realizado por Andrew Dominik, que firma el guion y también se ocupa de la dirección, para Netflix. Adrien Brody, Bobby Cannavale y Julianne Nicholson acompañan a la protagonista de <a href="https://www.espinof.com/criticas/punales-espalda-sensacional-pasatiempo-que-mezcla-humor-misterio-forma-brillante">'Puñales por la espalda'</a> al frente del reparto.</p>
+<!-- BREAK 50 -->
+<p><strong>Estreno previsto para 2021 en Netflix</strong></p>
+<script>
+ (function() {
+  window._JS_MODULES = window._JS_MODULES || {};
+  var headElement = document.getElementsByTagName('head')[0];
+  if (_JS_MODULES.instagram) {
+   var instagramScript = document.createElement('script');
+   instagramScript.src = 'https://platform.instagram.com/en_US/embeds.js';
+   instagramScript.async = true;
+   instagramScript.defer = true;
+   headElement.appendChild(instagramScript);
+  }
+ })();
+</script>
+</div>
+<div class="article-links">
+<div class="article-social-share js-article-social-share m-in-links">
+<p>
+   Compartir
+   <q class="article-social-share-meta">
+         Las 49 películas más esperadas de 2021
+       </q>
+</p>
+<ul>
+<li><a class="btn-facebook js-btn-facebook" data-postname="peliculas-estreno-esperadas-2021" href="http://www.facebook.com/dialog/feed?app_id=320648231703376&amp;redirect_uri=https://www.espinof.com/listas/peliculas-estreno-esperadas-2021%3Futm_source%3Dfacebook%26utm_medium%3Dsocial%26utm_campaign%3Dbotoneraweb&amp;link=https://www.espinof.com/listas/peliculas-estreno-esperadas-2021%3Futm_source%3Dfacebook%26utm_medium%3Dsocial%26utm_campaign%3Dbotoneraweb">Facebook</a></li>
+<li><a class="btn-twitter js-btn-twitter" data-postname="peliculas-estreno-esperadas-2021" href="https://twitter.com/intent/tweet?url=https://www.espinof.com/p/212113%3Futm_source%3Dtwitter%26utm_medium%3Dsocial%26utm_campaign%3Dbotoneraweb&amp;text=Las%2049%20pel%C3%ADculas%20m%C3%A1s%20esperadas%20de%202021&amp;via=espinof_com">Twitter</a></li>
+<li><a class="btn-flipboard js-flipboard-share-button js-flipboard-share-event" data-postname="peliculas-estreno-esperadas-2021" href="https://share.flipboard.com/bookmarklet/popout?v=2&amp;title=Las%2049%20pel%C3%ADculas%20m%C3%A1s%20esperadas%20de%202021&amp;url=https%3A%2F%2Fwww.espinof.com%2Flistas%2Fpeliculas-estreno-esperadas-2021%3Futm_source%3Dflipboard%26utm_medium%3Dsocial%26utm_campaign%3Dbotoneraweb">Flipboard</a></li>
+<li><a class="btn-email js-btn-email" data-postname="peliculas-estreno-esperadas-2021" href="mailto:?subject=Las%2049%20pel%C3%ADculas%20m%C3%A1s%20esperadas%20de%202021&amp;body=https://www.espinof.com/listas/peliculas-estreno-esperadas-2021%3Futm_source%3Demailsharing%26utm_medium%3Demail%26utm_content%3DPOST%26utm_campaign%3Dbotoneraweb%26utm_term%3DCLICK%2BON%2BTITLE">E-mail</a></li>
+</ul>
+</div>
+<div class="article-topics-list">
+<span class="article-topic-desc">Temas</span>
+<ul class="article-topics-categories">
+<li><a class="article-topic-link" href="/categoria/estrenos">Estrenos</a></li>
+<li><a class="article-topic-link" href="/categoria/listas">Listas</a></li>
+</ul>
+<ul class="article-topics-tags">
+<li><a class="article-topic-link" href="/tag/uncharted">Uncharted</a></li>
+<li><a class="article-topic-link" href="/tag/matrix-4">Matrix 4</a></li>
+<li><a class="article-topic-link" href="/tag/viuda-negra">Viuda Negra</a></li>
+<li><a class="article-topic-link" href="/tag/morbius">Morbius</a></li>
+<li><a class="article-topic-link" href="/tag/sin-tiempo-para-morir">Sin tiempo para morir</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="article-content-outer">
+<div class="article-social-share js-article-social-share m-in-featured">
+<p>Compartir</p>
+<ul>
+<li><a class="btn-facebook js-btn-facebook" data-postname="peliculas-estreno-esperadas-2021" href="http://www.facebook.com/dialog/feed?app_id=320648231703376&amp;redirect_uri=https://www.espinof.com/listas/peliculas-estreno-esperadas-2021%3Futm_source%3Dfacebook%26utm_medium%3Dsocial%26utm_campaign%3Dbotoneraweb&amp;link=https://www.espinof.com/listas/peliculas-estreno-esperadas-2021%3Futm_source%3Dfacebook%26utm_medium%3Dsocial%26utm_campaign%3Dbotoneraweb">Facebook</a></li>
+<li><a class="btn-twitter js-btn-twitter" data-postname="peliculas-estreno-esperadas-2021" href="https://twitter.com/intent/tweet?url=https://www.espinof.com/p/212113%3Futm_source%3Dtwitter%26utm_medium%3Dsocial%26utm_campaign%3Dbotoneraweb&amp;text=Las%2049%20pel%C3%ADculas%20m%C3%A1s%20esperadas%20de%202021&amp;via=espinof_com">Twitter</a></li>
+<li><a class="btn-flipboard js-flipboard-share-button js-flipboard-share-event" data-postname="peliculas-estreno-esperadas-2021" href="https://share.flipboard.com/bookmarklet/popout?v=2&amp;title=Las%2049%20pel%C3%ADculas%20m%C3%A1s%20esperadas%20de%202021&amp;url=https%3A%2F%2Fwww.espinof.com%2Flistas%2Fpeliculas-estreno-esperadas-2021%3Futm_source%3Dflipboard%26utm_medium%3Dsocial%26utm_campaign%3Dbotoneraweb">Flipboard</a></li>
+<li><a class="btn-email js-btn-email" data-postname="peliculas-estreno-esperadas-2021" href="mailto:?subject=Las%2049%20pel%C3%ADculas%20m%C3%A1s%20esperadas%20de%202021&amp;body=https://www.espinof.com/listas/peliculas-estreno-esperadas-2021%3Futm_source%3Demailsharing%26utm_medium%3Demail%26utm_content%3DPOST%26utm_campaign%3Dbotoneraweb%26utm_term%3DCLICK%2BON%2BTITLE">E-mail</a></li>
+</ul>
+</div>
+</div>
+</div>
+</article>
+<div class="ad ad-cen">
+<div class="ad-box" id="div-gpt-cen">
+<p class="ad-contact">Publicidad</p>
+<script>
+    googletag.cmd.push(function() { googletag.display("div-gpt-cen"); });
+   </script>
+</div>
+</div>
+<div class="section-related" id="recommendedPosts"></div>
+<script>
+  window.WSLModules = window.WSLModules || {};
+  WSLModules.recommendation = {'moduleConf' : 'Amplify'};
+</script>
+<script>
+ window.WSLModules || (window.WSLModules = {});
+ WSLModules.Comments || (WSLModules.Comments = {
+   'moduleConf' : 'c9'
+ });
+</script>
+<a id="to-comments"></a>
+<div id="comments">
+<div class="comment-section">
+<div class="comment-section" id="main-container">
+<div id="common-container">
+<div class="comment-wrapper initial-comments" style="display:none">
+<div class="comments-list">
+<p>Los mejores comentarios:</p>
+<ul id="initial-comments"></ul>
+</div>
+</div>
+<div class="view-more">
+<p><a class="btn-primary btn-comment js-toggle-comments-list is-closed" href="#" id="toggle-comments">Ver <span id="comment-count">18 comentarios</span></a></p>
+</div>
+<div class="comment-wrapper comment-wrapper-aside" id="comment-wrapper">
+<div class="comments-list" id="comments-area" style="display: none;">
+<div id="comment-header"></div>
+<div class="comment-write-form" id="comments-write-form" style="display: none;"></div>
+<!-- .comment-write-form -->
+<ul id="comments-before-ad"></ul>
+<ul id="comments-list"></ul>
+<div class="view-even-more"></div>
+<div class="article-comments-write article-comments-write-again" id="bottom-create-comment-widget"></div>
+<div class="comment-write-form" id="bottom-comments-write-form" style="display: none;"></div>
+</div>
+</div>
+</div>
+</div>
+<script>
+  window.AML || (window.AML = {});
+  AML.Comments || (AML.Comments = {});
+  AML.Comments.config || (AML.Comments.config = {});
+  AML.Comments.config.data = {"comments":[{"id":"1743905","post_id":"212113","date":1603636427,"content_filtered":"<p>El a\u00f1o de las secuelas que nadie pidi\u00f3.<\/p>","content":"El a\u00f1o de las secuelas que nadie pidi\u00f3.","karma":"64.25","parent":"0","comment_edited_date":1603636438,"vote_count":"5","comment_level":2,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"","user_id":"1185162","author":"","webpage":"","user_name":"stranno_","karma_level":"41.00","iseditor":"0","global_id":"1215237","facebook_uid":null,"user_status":"active","index":5,"avatar_type":"gravatar","avatar_link":"\/\/www.gravatar.com\/avatar\/992c3d3943f552aa53e8713531a6034e","abuse_users":[]},{"id":"1743918","post_id":"212113","date":1603642215,"content_filtered":"<p>De las 49 s\u00f3lo 12 parecen no ser adaptaciones, franquicias, remakes, precuelas o secuelas... terrible.<\/p>","content":"De las 49 s\u00f3lo 12 parecen no ser adaptaciones, franquicias, remakes, precuelas o secuelas... terrible.","karma":"45.00","parent":"0","comment_edited_date":"","vote_count":"2","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"","user_id":"1164187","author":"josete1985","webpage":"","user_name":"josete1985","karma_level":"58.00","iseditor":"0","global_id":"1164187","facebook_uid":"580884259211826","user_status":"active","index":7,"avatar_type":"wsl","avatar_link":"\/\/img.weblogssl.com\/avatar\/mini\/1164187_1.png","abuse_users":[]},{"id":"1743910","post_id":"212113","date":1603638153,"content_filtered":"<p>Menudo panorama, casi mejor que sigan aplaz\u00e1ndose. Creo que, por mi parte, de la lista s\u00f3lo salvar\u00eda 4, a lo sumo.<\/p><p>Un saludo.<\/p>","content":"Menudo panorama, casi mejor que sigan aplaz\u00e1ndose. Creo que, por mi parte, de la lista s\u00f3lo salvar\u00eda 4, a lo sumo.\n\nUn saludo.","karma":"39.25","parent":"0","comment_edited_date":"","vote_count":"3","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"","user_id":"1184321","author":"","webpage":"","user_name":"fidelio_78_2","karma_level":"34.00","iseditor":"0","global_id":"480408","facebook_uid":null,"user_status":"active","index":6,"avatar_type":"gravatar","avatar_link":"\/\/www.gravatar.com\/avatar\/6263308d461e6488763327b91cb4f07d","abuse_users":[]},{"id":"1743898","post_id":"212113","date":1603634522,"content_filtered":"<p>Currante Holland, ya me alegro.<br \/>\nQue ganas y que larga la espere para la de Anderson. <br \/>\nY voy a tener sue\u00f1os h\u00famedos con Ana de Armas, no, esperen, que ya los tengo.<\/p>","content":"Currante Holland, ya me alegro.\nQue ganas y que larga la espere para la de Anderson. \nY voy a tener sue\u00f1os h\u00famedos con Ana de Armas, no, esperen, que ya los tengo.","karma":"25.00","parent":"0","comment_edited_date":"","vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"","user_id":"905250","author":"uniumi7","webpage":"","user_name":"uniumi7","karma_level":"50.00","iseditor":"0","global_id":"905250","facebook_uid":null,"user_status":"active","index":2,"avatar_type":"wsl","avatar_link":"\/\/img.weblogssl.com\/avatar\/mini\/905250_3.png","abuse_users":[]},{"id":"1743981","post_id":"212113","date":1603671045,"content_filtered":"<p>Yo los tuve cuando apareci\u00f3 desnuda en Una rosa de Francia del 2005<\/p>","content":"Yo los tuve cuando apareci\u00f3 desnuda en Una rosa de Francia del 2005","karma":"8.00","parent":"1743898","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"","user_id":"1182613","author":"","webpage":"","user_name":"jaimejames","karma_level":"33.00","iseditor":"0","global_id":"1181778","facebook_uid":null,"user_status":"active","index":13,"avatar_type":"gravatar","avatar_link":"\/\/www.gravatar.com\/avatar\/a9b32d5b234793b457ee19b7a6510dca","abuse_users":[]},{"id":"1743904","post_id":"212113","date":1603636107,"content_filtered":"<p>Gracias por el articulo a modo resumen. <br \/>\nSolo a\u00f1adir que la fecha de cazafantamas ya esta movida al 11 de Junio :-(<\/p>","content":"Gracias por el articulo a modo resumen. \nSolo a\u00f1adir que la fecha de cazafantamas ya esta movida al 11 de Junio :-(","karma":"23.00","parent":"0","comment_edited_date":1603636134,"vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"","user_id":"35430","author":"guardiandelanoche","webpage":"","user_name":"riuk","karma_level":"38.00","iseditor":"0","global_id":"35430","facebook_uid":null,"user_status":"active","index":4,"avatar_type":"wsl","avatar_link":"\/\/img.weblogssl.com\/avatar\/mini\/35430_3.png","abuse_users":[]},{"id":"1743919","post_id":"212113","date":1603642275,"content_filtered":"<p>Interesantes no hay demasiadas a priori, pero despu\u00e9s de este a\u00f1o me conformo ya con lo que sea con tal de volver al cine. Hasta soportar a unos ni\u00f1os vomitandome palomitas en los pantalones o a un borracho senil meandome los zapatos. <\/p>","content":"Interesantes no hay demasiadas a priori, pero despu\u00e9s de este a\u00f1o me conformo ya con lo que sea con tal de volver al cine. Hasta soportar a unos ni\u00f1os vomitandome palomitas en los pantalones o a un borracho senil meandome los zapatos. ","karma":"23.00","parent":"0","comment_edited_date":"","vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"","user_id":"518203","author":"","webpage":"","user_name":"publiocarisio","karma_level":"42.00","iseditor":"0","global_id":"518203","facebook_uid":null,"user_status":"active","index":8,"avatar_type":"wsl","avatar_link":"\/\/img.weblogssl.com\/avatar\/mini\/518203_1.png","abuse_users":[]},{"id":"1743921","post_id":"212113","date":1603642773,"content_filtered":"<p>Qu\u00e9 rollo la verdad. Para m\u00ed poco hay. S\u00f3lo espero Dune y The French Dispatch. El resto pues a ver, esperar\u00e9 por lo que dicen las cr\u00edticas. Ojal\u00e1 la de M. Night Shyamalan mole. \u00c9sa la semiespero xd<\/p>","content":"Qu\u00e9 rollo la verdad. Para m\u00ed poco hay. S\u00f3lo espero Dune y The French Dispatch. El resto pues a ver, esperar\u00e9 por lo que dicen las cr\u00edticas. Ojal\u00e1 la de M. Night Shyamalan mole. \u00c9sa la semiespero xd","karma":"10.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"","user_id":"496957","author":"Sergio L\u00f3pez","webpage":"","user_name":"tenacillas","karma_level":"50.00","iseditor":"0","global_id":"496957","facebook_uid":null,"user_status":"active","index":9,"avatar_type":"wsl","avatar_link":"\/\/img.weblogssl.com\/avatar\/mini\/496957_5.png","abuse_users":[]},{"id":"1743928","post_id":"212113","date":1603647009,"content_filtered":"<p>Pocas me llaman pero es normal viendo el panorama. Dune, 007, Mission Imposible y Uncharted (soy muy fan de los juegos) junto con la de Anderson son las que me llaman de esta lista. Las dem\u00e1s.. alguna caer\u00e1.<\/p>","content":"Pocas me llaman pero es normal viendo el panorama. Dune, 007, Mission Imposible y Uncharted (soy muy fan de los juegos) junto con la de Anderson son las que me llaman de esta lista. Las dem\u00e1s.. alguna caer\u00e1.","karma":"10.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"","user_id":"1143707","author":"","webpage":"","user_name":"bibiwilder","karma_level":"50.00","iseditor":"0","global_id":"1143707","facebook_uid":null,"user_status":"active","index":10,"avatar_type":"gravatar","avatar_link":"\/\/www.gravatar.com\/avatar\/88f72d305bad89fdb728bbc59a5e3ca7","abuse_users":[]},{"id":"1743942","post_id":"212113","date":1603653138,"content_filtered":"<p>Pues casi todas las que est\u00e1bamos esperando este a\u00f1o. <\/p>","content":"Pues casi todas las que est\u00e1bamos esperando este a\u00f1o. ","karma":"10.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"","user_id":"893043","author":"","webpage":"","user_name":"ikevin95","karma_level":"35.00","iseditor":"0","global_id":"893043","facebook_uid":null,"user_status":"active","index":11,"avatar_type":"gravatar","avatar_link":"\/\/www.gravatar.com\/avatar\/be1508328e297de177d40264d88cf9aa","abuse_users":[]},{"id":"1743959","post_id":"212113","date":1603661116,"content_filtered":"<p>Se han juntado el hambre con las ganas de comer. Estamos con el jaleo del virus, pero en circunstancias normales tampoco se preve\u00eda un panorama como para ir al cine todos los d\u00edas. Yo ver\u00e9 las de Spielberg, Shyamalan y quiz\u00e1 la medieval de Scott, poquito m\u00e1s. <\/p>","content":"Se han juntado el hambre con las ganas de comer. Estamos con el jaleo del virus, pero en circunstancias normales tampoco se preve\u00eda un panorama como para ir al cine todos los d\u00edas. Yo ver\u00e9 las de Spielberg, Shyamalan y quiz\u00e1 la medieval de Scott, poquito m\u00e1s. ","karma":"10.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"","user_id":"15620","author":"","webpage":"","user_name":"jonesjr","karma_level":"50.00","iseditor":"0","global_id":"15620","facebook_uid":null,"user_status":"active","index":12,"avatar_type":"gravatar","avatar_link":"\/\/www.gravatar.com\/avatar\/b5f7950a2432a59eddb06e37f73ed1bf","abuse_users":[]},{"id":"1743983","post_id":"212113","date":1603674393,"content_filtered":"<p>Una lista tan grande y s\u00f3lo quiero ver cuatro, con todo y que muero de ganas por volver a una sala de cine.<\/p>","content":"Una lista tan grande y s\u00f3lo quiero ver cuatro, con todo y que muero de ganas por volver a una sala de cine.","karma":"10.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"","user_id":"1186017","author":"ratchet2431","webpage":"","user_name":"ratchet2431","karma_level":"44.00","iseditor":"0","global_id":"1262809","facebook_uid":null,"user_status":"active","index":14,"avatar_type":"wsl","avatar_link":"\/\/img.weblogssl.com\/avatar\/mini\/1262809_1.png","abuse_users":[]},{"id":"1744043","post_id":"212113","date":1603717629,"content_filtered":"<p>49 pel\u00edculas y el 99% son secuelas, precuelas, remakes, reboots, franquicias...joder qui\u00e9n ha dicho que el cine ha muerto...<\/p>","content":"49 pel\u00edculas y el 99% son secuelas, precuelas, remakes, reboots, franquicias...joder qui\u00e9n ha dicho que el cine ha muerto...","karma":"10.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"","user_id":"105486","author":"Alan The Palank","webpage":"","user_name":"alnaxino","karma_level":"54.00","iseditor":"0","global_id":"105486","facebook_uid":null,"user_status":"active","index":16,"avatar_type":"wsl","avatar_link":"\/\/img.weblogssl.com\/avatar\/mini\/105486_6.png","abuse_users":[]},{"id":"1744086","post_id":"212113","date":1603741383,"content_filtered":"<p>En 2021 est\u00e1 Dune, y luego todas las dem\u00e1s.<\/p>","content":"En 2021 est\u00e1 Dune, y luego todas las dem\u00e1s.","karma":"10.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"","user_id":"1180776","author":"","webpage":"","user_name":"hanslanda21","karma_level":"45.00","iseditor":"0","global_id":"1183257","facebook_uid":null,"user_status":"active","index":17,"avatar_type":"gravatar","avatar_link":"\/\/www.gravatar.com\/avatar\/2e958c3eaf0a7299d25edfffc25236b5","abuse_users":[]},{"id":"1744130","post_id":"212113","date":1603778878,"content_filtered":"<p>Viendo como est\u00e1 la situaci\u00f3n actual en el mundo del cine, a ver d\u00f3nde acaban muchas de estas pel\u00edculas que se esperan para el 2021... ya por lo pronto, la \u00faltima del agente 007, JAMES BOND, podr\u00eda estrenarse en alguna plataforma de streaming, y lamentablemente pienso que ser\u00eda la mejor decisi\u00f3n por parte de su productora: vender el producto a una empresa de streaming. <\/p><p>Puedo comprender que esta jugada hundir\u00e1 m\u00e1s a\u00fan los cines, y m\u00e1s si otras productoras hacen lo mismo con sus films (muy esperados por muchos, como las mencionadas de esta lista de pel\u00edculas del art\u00edculo), producciones que inteligentemente no se atreven a estrenar en salas de cine porque pasar\u00eda como sucedi\u00f3 con TENET: fracaso (al menos para su productora, por no hacer lo n\u00fameros que quer\u00edan hacer).<\/p><p>La productora de 007 vende el film por 600 millones de d\u00f3lares, cuando el film ha costado poco m\u00e1s de 200 millones, ser\u00eda una buena jugada para su productora y sacar un buen dinero lo antes posible (recuperando la inversi\u00f3n y sacando buenos beneficios).<br \/>\nY para la empresa de streaming que se haga con ello, significar\u00e1 tambi\u00e9n un \u00e9xito (nuevos suscriptores), pese a tener la pega de que hay mucho pirata, y en cuanto se estrene en alguna plataforma, el resto del mundo podr\u00e1 tenerla casi de inmediato para descargar gratuitamente (es la \u00fanica pega que le veo a la idea de vender las grandes producciones a las empresas de streaming: la pirater\u00eda).<\/p><p>Con mucha pena comento que los CINES est\u00e1n muertos m\u00e1s que nunca, y me da la sensaci\u00f3n de que no volveremos a ver los cines como lo que fueron anta\u00f1o (eso ni en sue\u00f1os), pero tampoco como antes de la pandemia del COVID. Me da mucha pena porque me considero un amante del cine, pero tambi\u00e9n soy realista y pienso que si queremos seguir disfrutando del cine (pel\u00edculas), debemos adaptarnos a las diferentes situaciones que puedan surgir (ahora mismo por la situaci\u00f3n COVID-19 y que la salas de cine ni siquiera se \"medio llenan\"). Si queremos seguir viendo pel\u00edculas, sus productoras necesitan ganar dinero para seguir produciendo m\u00e1s, porque sino, es el \"acabose\".<\/p><p>Esto es solo mi opini\u00f3n, un pensamiento en voz alta al leer el art\u00edculo y al esperar ver por fin muchas de las pel\u00edculas anunciadas en esta lista.<\/p>","content":"Viendo como est\u00e1 la situaci\u00f3n actual en el mundo del cine, a ver d\u00f3nde acaban muchas de estas pel\u00edculas que se esperan para el 2021... ya por lo pronto, la \u00faltima del agente 007, JAMES BOND, podr\u00eda estrenarse en alguna plataforma de streaming, y lamentablemente pienso que ser\u00eda la mejor decisi\u00f3n por parte de su productora: vender el producto a una empresa de streaming. \n\nPuedo comprender que esta jugada hundir\u00e1 m\u00e1s a\u00fan los cines, y m\u00e1s si otras productoras hacen lo mismo con sus films (muy esperados por muchos, como las mencionadas de esta lista de pel\u00edculas del art\u00edculo), producciones que inteligentemente no se atreven a estrenar en salas de cine porque pasar\u00eda como sucedi\u00f3 con TENET: fracaso (al menos para su productora, por no hacer lo n\u00fameros que quer\u00edan hacer).\n\nLa productora de 007 vende el film por 600 millones de d\u00f3lares, cuando el film ha costado poco m\u00e1s de 200 millones, ser\u00eda una buena jugada para su productora y sacar un buen dinero lo antes posible (recuperando la inversi\u00f3n y sacando buenos beneficios).\nY para la empresa de streaming que se haga con ello, significar\u00e1 tambi\u00e9n un \u00e9xito (nuevos suscriptores), pese a tener la pega de que hay mucho pirata, y en cuanto se estrene en alguna plataforma, el resto del mundo podr\u00e1 tenerla casi de inmediato para descargar gratuitamente (es la \u00fanica pega que le veo a la idea de vender las grandes producciones a las empresas de streaming: la pirater\u00eda).\n\nCon mucha pena comento que los CINES est\u00e1n muertos m\u00e1s que nunca, y me da la sensaci\u00f3n de que no volveremos a ver los cines como lo que fueron anta\u00f1o (eso ni en sue\u00f1os), pero tampoco como antes de la pandemia del COVID. Me da mucha pena porque me considero un amante del cine, pero tambi\u00e9n soy realista y pienso que si queremos seguir disfrutando del cine (pel\u00edculas), debemos adaptarnos a las diferentes situaciones que puedan surgir (ahora mismo por la situaci\u00f3n COVID-19 y que la salas de cine ni siquiera se \"medio llenan\"). Si queremos seguir viendo pel\u00edculas, sus productoras necesitan ganar dinero para seguir produciendo m\u00e1s, porque sino, es el \"acabose\".\n\nEsto es solo mi opini\u00f3n, un pensamiento en voz alta al leer el art\u00edculo y al esperar ver por fin muchas de las pel\u00edculas anunciadas en esta lista.","karma":"10.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"","user_id":"50878","author":"","webpage":"","user_name":"luissantonja","karma_level":"52.00","iseditor":"0","global_id":"50878","facebook_uid":"1612574362089173","user_status":"active","index":18,"avatar_type":"facebook","avatar_link":"\/\/graph.facebook.com\/1612574362089173\/picture","abuse_users":[]},{"id":"1743986","post_id":"212113","date":1603676406,"content_filtered":"<p>Qu\u00e9 pintaza \"Last night in Soho\". Una pel\u00edcula que promete much\u00edsimo, sus posibilidades est\u00e9ticas son infinitas, as\u00ed como en cuanto a ejercicio de metacine y collage pop. Homenajear al thriller psic\u00f3logico\/psicod\u00e9lico de los 60s es un fil\u00f3n del cual puede salir cualquier locura de la mano del director de SP contra el mundo. Y Diana Rigg y Stamp, perfectos para salir ah\u00ed. Rigg en los vengadores y Stamp en Toby Dammit de Fellini en aquellos a\u00f1os en que se ambienta la cinta, hicieron papeles muy locos y emblematicos. Puede ser una aut\u00e9ntica maravilla.<\/p>","content":"Qu\u00e9 pintaza \"Last night in Soho\". Una pel\u00edcula que promete much\u00edsimo, sus posibilidades est\u00e9ticas son infinitas, as\u00ed como en cuanto a ejercicio de metacine y collage pop. Homenajear al thriller psic\u00f3logico\/psicod\u00e9lico de los 60s es un fil\u00f3n del cual puede salir cualquier locura de la mano del director de SP contra el mundo. Y Diana Rigg y Stamp, perfectos para salir ah\u00ed. Rigg en los vengadores y Stamp en Toby Dammit de Fellini en aquellos a\u00f1os en que se ambienta la cinta, hicieron papeles muy locos y emblematicos. Puede ser una aut\u00e9ntica maravilla.","karma":"8.00","parent":"0","comment_edited_date":1603676466,"vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"","user_id":"1192804","author":"Javerit","webpage":"","user_name":"yaveritz","karma_level":"27.00","iseditor":"0","global_id":"1136390","facebook_uid":null,"user_status":"active","index":15,"avatar_type":"gravatar","avatar_link":"\/\/www.gravatar.com\/avatar\/ff90485c4d31428bb828c90c755f41c4","abuse_users":[]},{"id":"1743897","post_id":"212113","date":1603633175,"content_filtered":"<p>Qu\u00e9 bien le est\u00e1 yendo a Tom Holland. Hablamos de 4 films a estrenarse, y todas con rol protag\u00f3nico.<\/p>","content":"Qu\u00e9 bien le est\u00e1 yendo a Tom Holland. Hablamos de 4 films a estrenarse, y todas con rol protag\u00f3nico.","karma":"4.25","parent":"0","comment_edited_date":"","vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"","user_id":"1188200","author":"","webpage":"","user_name":"saulbriceno","karma_level":"32.00","iseditor":"0","global_id":"1290344","facebook_uid":"126437448585386","user_status":"active","index":1,"avatar_type":"facebook","avatar_link":"\/\/graph.facebook.com\/126437448585386\/picture","abuse_users":[]},{"id":"1743903","post_id":"212113","date":1603635905,"content_filtered":"<p>Tom Holland esta que arrasa <\/p>","content":"Tom Holland esta que  arrasa ","karma":"4.25","parent":"0","comment_edited_date":"","vote_count":"1","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"","user_id":"451965","author":"","webpage":"","user_name":"victoria.sieira","karma_level":"32.00","iseditor":"0","global_id":"451965","facebook_uid":"2433190906709057","user_status":"active","index":3,"avatar_type":"facebook","avatar_link":"\/\/graph.facebook.com\/2433190906709057\/picture","abuse_users":[]}],"meta":{"more_records":"false","start":0,"total":18,"order":"valued","totalCount":18,"commentStatus":"open"}};
+  AML.Comments.config.postId = 212113;
+  AML.Comments.config.enableSocialShare = "0";
+  AML.Comments.config.status = "open";
+  AML.Comments.config.campaignDate = "09_Dec_2020";
+  AML.Comments.config.enableImageUploading = "0";
+</script>
+</div>
+</div>
+<div class="ad ad-cen2">
+<div class="ad-box" id="div-gpt-cen2">
+<p class="ad-contact">Publicidad</p>
+<script>
+    googletag.cmd.push(function() { googletag.display("div-gpt-cen2"); });
+   </script>
+</div>
+</div>
+<section class="section-related" id="editorialRecommendedPosts"></section>
+<div class="ad ad-bot">
+<div class="ad-box" id="div-gpt-bot2">
+<p class="ad-contact">Publicidad</p>
+<script>
+    googletag.cmd.push(function() { googletag.display("div-gpt-bot2"); });
+   </script>
+</div>
+</div>
+<div class="section-deeplinking-container">
+<div class="section-deeplinking">
+<span class="section-deeplinking-header">Temas de interés</span>
+<ul class="section-deeplinking-list" id="js-evergreen-nav-links">
+<li class="section-deeplinking-item">
+<a class="section-deeplinking-anchor" href="">
+</a>
+</li>
+<li class="section-deeplinking-item">
+<a class="section-deeplinking-anchor" href="https://www.espinof.com/listas/peliculas-esperadas-2020">
+       estrenos 2020
+      </a>
+</li>
+<li class="section-deeplinking-item">
+<a class="section-deeplinking-anchor" href="https://www.espinof.com/listas/mejores-series-2020">
+       mejores series
+      </a>
+</li>
+<li class="section-deeplinking-item">
+<a class="section-deeplinking-anchor" href="https://www.espinof.com/listas/mejores-peliculas-2020">
+       mejores películas
+      </a>
+</li>
+<li class="section-deeplinking-item">
+<a class="section-deeplinking-anchor" href="https://www.espinof.com/listas/mejores-peliculas-terror-todos-tiempos">
+       películas de miedo
+      </a>
+</li>
+<li class="section-deeplinking-item">
+<a class="section-deeplinking-anchor" href="https://www.espinof.com/listas/33-mejores-peliculas-comicas-siglo-xxi">
+       películas de risa
+      </a>
+</li>
+<li class="section-deeplinking-item">
+<a class="section-deeplinking-anchor" href="https://www.espinof.com/listas/29-mejores-peliculas-animacion-historia">
+       películas de animación
+      </a>
+</li>
+<li class="section-deeplinking-item">
+<a class="section-deeplinking-anchor" href="https://www.espinof.com/listas/las-mejores-peliculas-de-accion-de-la-historia">
+       películas de acción
+      </a>
+</li>
+<li class="section-deeplinking-item">
+<a class="section-deeplinking-anchor" href="https://www.espinof.com/fecha-de-estreno/dune-fecha-estreno-trailer-reparto-pelicula-dirigida-denis-villeneuve">
+       Dune 2020
+      </a>
+</li>
+<li class="section-deeplinking-item">
+<a class="section-deeplinking-anchor" href="https://www.espinof.com/listas/14-mejores-series-netflix-2020">
+       series Netflix
+      </a>
+</li>
+<li class="section-deeplinking-item">
+<a class="section-deeplinking-anchor" href="https://www.espinof.com/listas/mejores-series-2020-amazon">
+       series Amazon Prime
+      </a>
+</li>
+<li class="section-deeplinking-item">
+<a class="section-deeplinking-anchor" href="https://www.espinof.com/listas/mejores-series-hbo-2020">
+       series HBO
+      </a>
+</li>
+<li class="section-deeplinking-item">
+<a class="section-deeplinking-anchor" href="https://www.espinof.com/listas/mejores-peliculas-disney-todos-tiempos">
+       películas Disney
+      </a>
+</li>
+<li class="section-deeplinking-item">
+<a class="section-deeplinking-anchor" href="https://www.xataka.com/cine-y-tv/como-ver-todas-las-pelis-y-series-de-los-vengadores-en-orden-cronologico">
+       orden películas Marvel
+      </a>
+</li>
+</ul>
+<div class="section-deeplinking-btn" id="js-evergreen-nav-btn"></div>
+</div>
+</div>
+</main>
+<section class="head-menu-container head-menu-sections" id="sections">
+<a class="head-menu-toggler js-toggle" href="#sections"></a>
+<div class="head-menu">
+<a class="close close-corner js-toggle js-menu-close" href="#sections">Inicio</a>
+<div id="opt-in"></div>
+<div id="sections-search"></div>
+<script>
+    document.getElementById("sections-search").innerHTML = '\
+     <div class="head-menu-search">\
+      <div class="head-search-form js-search-form">\
+       <input id="search-field-1" type="text" placeholder="Buscar en Espinof" class="search-container-1" data-container="#search-container-1">\
+       <button class="head-search-button js-search-button" data-field="#search-field-1">Buscar</button>\
+      </div>\
+     </div>';
+   </script>
+<div class="js-search-results" id="search-container-1"></div>
+<div class="sections-login" id="sections-login-wrapper">
+<div class="user-card" id="js-login"></div>
+</div>
+<nav class="head-menu-categories">
+<ul>
+<li><a class="head-list-item js-track-header-event" href="/categoria/estrenos">Estrenos</a></li> <li><a class="head-list-item js-track-header-event" href="/categoria/proyectos">Proyectos</a></li> <li><a class="head-list-item js-track-header-event" href="/categoria/series-de-ficcion">Series de ficción</a></li> <li><a class="head-list-item js-track-header-event" href="/categoria/criticas">Críticas</a></li> <li><a class="head-list-item js-track-header-event" href="/categoria/netflix">Netflix</a></li> <li><a class="head-list-item js-track-header-event" href="/categoria/listas">Listas</a></li> <li><a class="head-list-item js-track-header-event" href="/tag/hbo">HBO</a></li> <li><a class="head-list-item js-track-header-event" href="/tag/wonder-woman-1984">Wonder Woman 1984</a></li> <li><a class="head-list-item js-track-header-event" href="/tag/the-mandalorian">The Mandalorian</a></li> <li><a class="head-list-item js-track-header-event" href="/tag/disney-plus">Disney plus</a></li> <li><a class="head-list-item js-track-header-event" href="/tag/30-monedas">30 monedas</a></li> <li><a class="head-list-item js-track-header-event" href="/tag/antidisturbios">Antidisturbios</a></li> </ul>
+<p class="head-more-item">
+<a class="btn js-track-header-event" href="/archivos">Ver más temas</a>
+</p>
+</nav>
+<aside class="head-menu-follow">
+<span class="head-item-meta">Síguenos</span>
+<ul>
+<li>
+<a class="icon-twitter link-twitter" href="http://twitter.com/espinof_com" rel="nofollow">Twitter</a>
+</li>
+<li>
+<a class="icon-facebook link-facebook" href="https://www.facebook.com/pages/espinofcinetv/52386609324" rel="nofollow">Facebook</a>
+</li>
+<li>
+<a class="icon-youtube link-youtube" href="https://www.youtube.com/channel/UCZQfwlWCUxMaxwf2MKsH_wg?sub_confirmation=1" rel="nofollow">Youtube</a>
+</li>
+<li>
+<a class="icon-instagram link-instagram" href="https://instagram.com/espinof_com" rel="nofollow">Instagram</a>
+</li>
+<li>
+<a class="icon-rss link-rss" href="/index.xml" rel="nofollow">RSS</a>
+</li>
+<li>
+<a class="icon-flipboard link-flipboard" href="https://flipboard.com/@espinof" rel="nofollow">Flipboard</a>
+</li>
+<li id="sections-newsletter">
+<a class="icon-email link-email js-toggle-subscribe" href="#head-menu-newsletter">E-mail</a>
+</li>
+</ul>
+</aside>
+<section class="head-menu-newsletter" id="head-menu-newsletter">
+<a class="close close-corner js-toggle-subscribe" href="#head-menu-newsletter"></a>
+<form class="newsletter-form head-newsletter-form js-subscription" data-id="#head-menu-newsletter" data-url="https://mailer.weblogssl.com/subscribe_check/#email#/espinof/Espinof" method="post">
+<h3 class="newsletter-heading">Recibe un email al día con los artículos de Espinof: </h3>
+<p><input class="newsletter-input js-email" placeholder="Tu correo electrónico" type="email"/>
+<button class="btn-primary newsletter-button" type="submit">Suscribir</button></p>
+</form>
+</section>
+<nav class="head-menu-extras">
+<ul class="head-list">
+<li><a class="head-list-item section-tv js-track-header-event" href="https://www.youtube.com/channel/UCZQfwlWCUxMaxwf2MKsH_wg?sub_confirmation=1">Espinof
+      <span>TV</span>
+</a></li>
+<li><a class="head-list-item section-lomejor js-track-header-event" href="/lomejor">Lo mejor</a></li>
+<li><a class="head-list-item section-staff js-track-header-event" href="/quienes-somos">Equipo editorial</a></li>
+<li><a class="head-list-item section-contact js-track-header-event" href="/contacto">Contacta con nosotros</a></li>
+<li id="sections-login">
+<span id="login"></span>
+</li>
+</ul>
+</nav>
+<aside class="head-menu-external">
+<p class="nav-heading">Más sitios que te gustarán</p>
+<ul>
+<li><a class="head-list-item js-track-header-event" href="https://www.xataka.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer" rel="nofollow">Xataka</a></li> <li><a class="head-list-item js-track-header-event" href="https://www.applesfera.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer">Applesfera</a></li> <li><a class="head-list-item js-track-header-event" href="https://www.xatakaciencia.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer">Xataka Ciencia</a></li> <li><a class="head-list-item js-track-header-event" href="https://www.directoalpaladar.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer">Directo al Paladar</a></li> <li><a class="head-list-item js-track-header-event" href="https://www.vidaextra.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer">Vidaextra</a></li> </ul>
+</aside>
+<div class="head-menu-channels">
+<h3>Explora en nuestros medios</h3>
+<ul>
+<li><a class="head-list-item head-channel-caption explore-weblogs-sl-toggle" href="#head-channel-tecnologia">
+        Tecnología
+        <span class="head-item-meta m-desc">Móviles, tablets, aplicaciones, videojuegos, fotografía, domótica...</span></a><ul class="head-channel-list" id="head-channel-tecnologia"><li><a class="head-list-item tec-xataka js-track-header-event" href="//www.xataka.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer" rel="nofollow">Xataka</a></li><li><a class="head-list-item tec-xatakamovil js-track-header-event" href="//www.xatakamovil.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer">Xataka Móvil</a></li><li><a class="head-list-item tec-xatakafoto js-track-header-event" href="//www.xatakafoto.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer">Xataka Foto</a></li><li><a class="head-list-item tec-xatakandroid js-track-header-event" href="//www.xatakandroid.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer">Xataka Android</a></li><li><a class="head-list-item tec-xatakahome js-track-header-event" href="//www.xatakahome.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer">Xataka Smart Home</a></li><li><a class="head-list-item tec-xatakawindows js-track-header-event" href="//www.xatakawindows.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer">Xataka Windows</a></li><li><a class="head-list-item tec-xatakaciencia js-track-header-event" href="//www.xatakaciencia.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer">Xataka Ciencia</a></li><li><a class="head-list-item tec-applesfera js-track-header-event" href="//www.applesfera.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer">Applesfera</a></li><li><a class="head-list-item tec-genbeta js-track-header-event" href="//www.genbeta.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer">Genbeta</a></li><li><a class="head-list-item tec-magnet js-track-header-event" href="//magnet.xataka.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer">Magnet</a></li></ul></li> <li><a class="head-list-item head-channel-caption explore-weblogs-sl-toggle" href="#head-channel-videojuegos">
+        Videojuegos
+        <span class="head-item-meta m-desc">Consolas, juegos, PC, PS4, Switch, Nintendo 3DS y Xbox...</span></a><ul class="head-channel-list" id="head-channel-videojuegos"><li><a class="head-list-item tech-3djuegos js-track-header-event" href="//www.3djuegos.com#utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer">3DJuegos</a></li><li><a class="head-list-item tec-vidaextra js-track-header-event" href="//www.vidaextra.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer">Vida Extra</a></li><li><a class="head-list-item tech-ign js-track-header-event" href="//es.ign.com#utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer">IGN</a></li><li><span class="head-list-item tech-millenium js-track-header-event">Millenium</span></li></ul></li> <li><a class="head-list-item head-channel-caption explore-weblogs-sl-toggle" href="#head-channel-entretenimiento">
+        Entretenimiento
+        <span class="head-item-meta m-desc">Series, cine, estrenos en cartelera, premios, rodajes, nuevas películas, televisión...</span></a><ul class="head-channel-list" id="head-channel-entretenimiento"><li><a class="head-list-item oci-sensacine js-track-header-event" href="https://www.sensacine.com#utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer">Sensacine</a></li><li><a class="head-list-item oci-espinof js-track-header-event" href="//www.espinof.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer">Espinof</a></li></ul></li> <li><a class="head-list-item head-channel-caption explore-weblogs-sl-toggle" href="#head-channel-gastronomia">
+        Gastronomía
+        <span class="head-item-meta m-desc">Recetas, recetas de cocina fácil, pinchos, tapas, postres...</span></a><ul class="head-channel-list" id="head-channel-gastronomia"><li><a class="head-list-item est-directoalpaladar js-track-header-event" href="//www.directoalpaladar.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer">Directo al Paladar</a></li></ul></li> <li><a class="head-list-item head-channel-caption explore-weblogs-sl-toggle" href="#head-channel-Estilodevida">
+        Estilo de vida
+        <span class="head-item-meta m-desc">Moda, belleza, estilo, salud, fitness, familia, gastronomía, decoración, famosos...</span></a><ul class="head-channel-list" id="head-channel-Estilodevida"><li><a class="head-list-item est-vitonica js-track-header-event" href="//www.vitonica.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer" rel="nofollow">Vitónica</a></li><li><a class="head-list-item est-trendencias js-track-header-event" href="//www.trendencias.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer">Trendencias</a></li><li><a class="head-list-item est-trendenciashombre js-track-header-event" href="//www.trendenciashombre.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer">Trendencias Hombre</a></li><li><a class="head-list-item est-decoesfera js-track-header-event" href="//decoracion.trendencias.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer" rel="nofollow">Decoesfera</a></li><li><a class="head-list-item tec-compradiccion js-track-header-event" href="//www.compradiccion.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer">Compradiccion</a></li><li><a class="head-list-item est-poprosa js-track-header-event" href="//www.poprosa.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer">Poprosa</a></li></ul></li> <li><a class="head-list-item head-channel-caption explore-weblogs-sl-toggle" href="#head-channel-motor">
+        Motor
+        <span class="head-item-meta m-desc">Coches, competición, motos, vehículos eléctricos, híbridos...</span></a><ul class="head-channel-list" id="head-channel-motor"><li><a class="head-list-item mot-motorpasion js-track-header-event" href="//www.motorpasion.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer">Motorpasión</a></li><li><a class="head-list-item mot-motorpasionmoto js-track-header-event" href="//www.motorpasionmoto.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer">Motorpasión Moto</a></li></ul></li> <li><a class="head-list-item head-channel-caption explore-weblogs-sl-toggle" href="#head-channel-economia">
+        Economía
+        <span class="head-item-meta m-desc">Finanzas, mundo de la empresa, autónomos, fiscalidad, administración, recursos humanos...</span></a><ul class="head-channel-list" id="head-channel-economia"><li><a class="head-list-item eco-elblogsalmon js-track-header-event" href="//www.elblogsalmon.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer">El Blog Salmón</a></li><li><a class="head-list-item eco-pymesyautonomos js-track-header-event" href="//www.pymesyautonomos.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer">Pymes y Autónomos</a></li></ul></li> <li><a class="head-list-item head-channel-caption explore-weblogs-sl-toggle" href="#head-channel-ocio">
+        Familia y Ocio
+        <span class="head-item-meta m-desc">Televisión, series, cine, estrenos, viajes, literatura...</span></a><ul class="head-channel-list" id="head-channel-ocio"><li><a class="head-list-item est-bebesymas js-track-header-event" href="//www.bebesymas.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer">Bebés y Más</a></li><li><a class="head-list-item oci-diariodelviajero js-track-header-event" href="//www.diariodelviajero.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer">Diario del Viajero</a></li></ul></li> <li><a class="head-list-item head-channel-caption explore-weblogs-sl-toggle" href="#head-channel-latinoamerica">
+        Latinoamérica
+        <span class="head-item-meta m-desc">Publicaciones de México...</span></a><ul class="head-channel-list" id="head-channel-latinoamerica"><li><a class="head-list-item tec-xataka js-track-header-event" href="//www.xataka.com.mx?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer">Xataka México</a></li><li><a class="head-list-item mot-motorpasion js-track-header-event" href="//www.motorpasion.com.mx?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer">Motorpasión México</a></li><li><a class="head-list-item est-directoalpaladar js-track-header-event" href="//www.directoalpaladar.com.mx?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer">Directo al Paladar México</a></li><li><a class="head-list-item oci-sensacine js-track-header-event" href="https://www.sensacine.com.mx#utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer">Sensacine México</a></li><li><a class="head-list-item tech-3djuegos js-track-header-event" href="//www.3djuegos.com/mx/#utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer">3DJuegos México</a></li></ul></li> <li><a class="head-list-item head-channel-caption explore-weblogs-sl-toggle" href="#head-channel-participamosen">
+        Participamos en
+        <span class="head-item-meta m-desc">Publicaciones para otras marcas y partners...</span></a><ul class="head-channel-list" id="head-channel-participamosen"><li><a class="head-list-item js-track-header-event" href="https://www.nobbot.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer" rel="nofollow">Nobbot</a></li><li><a class="head-list-item js-track-header-event" href="//webloom.health?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer" rel="nofollow">Bloom</a></li><li><a class="head-list-item js-track-header-event" href="https://www.elcorteingles.es/ideas-y-consejos/tecnologia/?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer" rel="nofollow">Ideas y Consejos de Tecnología</a></li><li><a class="head-list-item js-track-header-event" href="https://www.bloglenovo.es?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer" rel="nofollow">Blog Lenovo</a></li><li><a class="head-list-item js-track-header-event" href="https://www.inget.es/?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer" rel="nofollow">Inget by acer</a></li><li><a class="head-list-item js-track-header-event" href="http://blog.orange.es?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer" rel="nofollow">By Orange - Blog de Orange</a></li><li><a class="head-list-item js-track-header-event" href="https://eligebientubarrio.ing.es/?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer" rel="nofollow">Elige Bien tu barrio</a></li><li><a class="head-list-item js-track-header-event" href="https://bloygo.yoigo.com/?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer" rel="nofollow">Bloygo</a></li><li><a class="head-list-item js-track-header-event" href="//poptv.orange.es?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer" rel="nofollow">Pop TV</a></li><li><a class="head-list-item js-track-header-event" href="https://www.cocacolaespana.es?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer" rel="nofollow">Coca-Cola Journey España</a></li><li><a class="head-list-item js-track-header-event" href="https://www.cocacolaportugal.pt?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer" rel="nofollow">Coca-Cola Journey Portugal</a></li><li><a class="head-list-item js-track-header-event" href="https://www.cervezasalhambra.es/momentos-alhambra/?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer" rel="nofollow">Momentos Alhambra</a></li><li><a class="head-list-item js-track-header-event" href="https://www.rentabilibar.es?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer" rel="nofollow">Mahou Rentabilibar</a></li><li><a class="head-list-item js-track-header-event" href="https://www.circulaseguro.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer" rel="nofollow">Circula Seguro</a></li><li><a class="head-list-item js-track-header-event" href="https://www.circulaseguro.pt?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer" rel="nofollow">Circula Seguro PT</a></li><li><a class="head-list-item js-track-header-event" href="https://www.tuenergiacuenta.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer" rel="nofollow">Tu Energía Cuenta</a></li><li><a class="head-list-item js-track-header-event" href="//hablemosdeempresas.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer" rel="nofollow">Hablemos de empresas</a></li><li><a class="head-list-item js-track-header-event" href="https://www.ennaranja.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer" rel="nofollow">En Naranja</a></li><li><a class="head-list-item js-track-header-event" href="https://blog.sage.es?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer" rel="nofollow">Sage Experience</a></li><li><a class="head-list-item js-track-header-event" href="https://www.huellasbysareb.es/?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer" rel="nofollow">Huellas by Sareb</a></li><li><a class="head-list-item js-track-header-event" href="https://www.smartcitylab.com/?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer" rel="nofollow">Tomorrow Mag</a></li><li><a class="head-list-item js-track-header-event" href="https://blog.selfbank.es/?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer" rel="nofollow">Blog Self Bank</a></li><li><a class="head-list-item js-track-header-event" href="https://estardondeestes.com/?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer" rel="nofollow">Estar donde estés</a></li></ul></li> </ul>
+</div>
+<nav class="head-menu-links">
+<ul class="head-list">
+<li><a class="head-list-item js-track-header-event" href="https://weblogs.webedia.es/aviso-legal.html">Aviso legal</a></li>
+<li><a class="head-list-item js-track-header-event" href="https://www.weblogssl.com/contenidos">Condiciones de uso</a></li>
+<li><a class="head-list-item js-track-header-event" href="https://www.weblogssl.com/cookies">Condiciones de uso de cookies</a></li>
+<li><a class="head-list-item js-track-header-event" href="mailto:publicidad@webedia-group.com">Publicidad</a></li>
+</ul>
+</nav>
+</div>
+</section>
+<section class="head-menu-container head-menu-new m-menu-right" id="headlines">
+<a class="head-menu-toggler js-toggle" href="#headlines"></a>
+<div class="head-menu">
+<a class="close close-corner js-toggle" href="#headlines">Inicio</a>
+<p class="nav-heading">Reciente</p>
+<ul id="recent-posts">
+<li><a class="head-new-item" href="/series-de-ficcion/history-of-swear-words-nicolas-cage-nos-explicara-origenes-palabras-como-fuck-bitch-pussy-nueva-serie-divulgativa-netflix">
+  'History of Swear Words': Nicolas Cage nos explicará los orígenes de palabras como "fuck", "bitch" o "pussy" en la nueva serie divulgativa de Netflix
+  <span class="head-item-meta"><time class="js-header-post" datetime="2020-12-09T20:01:14+00:00"></time></span></a></li> <li><a class="head-new-item" href="/proyectos/how-to-with-john-wilson-temporada-2-docuserie-hbo-llegara-2021">
+  'How To With John Wilson': la temporada 2 de la docuserie de HBO llegará en 2021 
+  <span class="head-item-meta"><time class="js-header-post" datetime="2020-12-09T17:26:34+00:00"></time></span></a></li> <li><a class="head-new-item" href="/series-de-ficcion/vuelve-true-blood-hbo-pone-marcha-reboot-serie-vampiros-creador-escalofriantes-aventuras-sabrina">
+  ¡Vuelve 'True Blood'! HBO pone en marcha un reboot de la serie de vampiros con el creador de 'Las escalofriantes aventuras de Sabrina' 
+  <span class="head-item-meta"><time class="js-header-post" datetime="2020-12-09T16:56:40+00:00"></time></span></a></li> <li><a class="head-new-item" href="/trailers/cobra-kai-netflix-presenta-trailer-temporada-3-esta-secuela-mitica-karate-kid">
+  'Cobra Kai': Netflix presenta el tráiler de la temporada 3 de esta secuela de la mítica 'Karate Kid'
+  <span class="head-item-meta"><time class="js-header-post" datetime="2020-12-09T15:11:43+00:00"></time></span></a></li> <li><a class="head-new-item" href="/otros/warner-afirma-que-taquilla-tenet-razon-estrenar-cines-hbo-max-directora-wonder-woman-1984-apoya-plan">
+  Warner afirma que la taquilla de 'Tenet' es la razón de estrenar en cines y HBO Max: la directora de 'Wonder Woman 1984' apoya el plan 
+  <span class="head-item-meta"><time class="js-header-post" datetime="2020-12-09T12:07:15+00:00"></time></span></a></li> <li><a class="head-new-item" href="/trailers/espabilados-trailer-nueva-serie-albert-espinosa-para-movistar-promete-aventura-cargada-positividad">
+  'Los espabilados': el tráiler de la nueva serie de Albert Espinosa para Movistar+ promete una aventura cargada de positividad 
+  <span class="head-item-meta"><time class="js-header-post" datetime="2020-12-09T11:00:39+00:00"></time></span></a></li> <li><a class="head-new-item m-crosspost" href="https://www.directoalpaladar.com/actualidad-1/raquel-merono-gana-masterchef-celebrity-12-estrellas-michelin-menu-errores?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=headlines_reciente">
+  Raquel Meroño gana MasterChef Celebrity, entre 12 estrellas Michelin y con un menú sin errores 
+  <span class="head-item-meta">
+   en Directo al Paladar <time class="js-header-post" datetime="2020-12-09T11:04:31+00:00"></time></span></a></li> <li><a class="head-new-item" href="/netflix/hoops-cancelada-comedia-animada-baloncesto-netflix-no-tendra-temporada-2">
+  'Hoops', cancelada: la comedia animada sobre baloncesto de Netflix no tendrá temporada 2 
+  <span class="head-item-meta"><time class="js-header-post" datetime="2020-12-09T10:09:16+00:00"></time></span></a></li> <li><a class="head-new-item" href="/directores-y-guionistas/reunion-nuevo-directores-noche-bodas-scream-sera-pelicula-monstruos-ex-alumnos-instituto">
+  'Reunion': lo nuevo de los directores de 'Noche de bodas' y 'Scream' será una película de monstruos entre ex-alumnos de instituto
+  <span class="head-item-meta"><time class="js-header-post" datetime="2020-12-09T09:44:17+00:00"></time></span></a></li> <li><a class="head-new-item" href="/trailers/clarice-primer-trailer-spin-off-televisivo-silencio-corderos-anuncia-su-fecha-estreno">
+  'Clarice': el primer tráiler del spin-off televisivo de 'El silencio de los corderos' anuncia su fecha de estreno 
+  <span class="head-item-meta"><time class="js-header-post" datetime="2020-12-09T08:37:42+00:00"></time></span></a></li> <li><a class="head-new-item" href="/series-de-ficcion/apple-tv-renueva-para-toda-humanidad-ucronia-espacial-protagonizada-joel-kinnaman-tendra-temporada-3">
+  Apple TV+ renueva 'Para toda la humanidad': la ucronía espacial protagonizada por Joel Kinnaman tendrá temporada 3 
+  <span class="head-item-meta"><time class="js-header-post" datetime="2020-12-09T07:56:01+00:00"></time></span></a></li> <li><a class="head-new-item" href="/la-sexta/infierno-azul-blake-lively-se-enfrenta-a-tiburon-blanco-otro-genial-thriller-jaume-collet-serra">
+  'Infierno azul': Blake Lively se enfrenta a un tiburón blanco en otro extraordinario thriller de Jaume Collet-Serra
+  <span class="head-item-meta"><time class="js-header-post" datetime="2020-12-09T07:00:50+00:00"></time></span></a></li> <li><a class="head-new-item" href="/proyectos/anya-taylor-joy-cocreador-gambito-dama-se-volveran-a-reunir-para-adaptar-risa-oscuridad-nabokov">
+  Anya Taylor-Joy y el cocreador de 'Gambito de dama' se volverán a reunir para adaptar 'Risa en la oscuridad' de Nabokov
+  <span class="head-item-meta"><time class="js-header-post" datetime="2020-12-08T20:20:39+00:00"></time></span></a></li> <li><a class="head-new-item" href="/proyectos/spider-man-3-alfred-molina-volvera-a-ser-doctor-octopus-para-enfrentarse-al-superheroe-interpretado-tom-holland">
+  'Spider-Man 3': Alfred Molina volverá a ser el Doctor Octopus en la siguiente aventura del superhéroe interpretado por Tom Holland
+  <span class="head-item-meta"><time class="js-header-post" datetime="2020-12-08T19:21:26+00:00"></time></span></a></li> <li><a class="head-new-item m-crosspost" href="https://www.xataka.com/streaming/series-epoca-target-femenino-grandes-apuestas-starz-guerra-streaming?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=headlines_reciente">
+  Series de época y un target femenino, las grandes apuestas de Starz en la guerra del streaming 
+  <span class="head-item-meta">
+   en Xataka <time class="js-header-post" datetime="2020-12-08T19:36:58+00:00"></time></span></a></li> <li><a class="head-new-item" href="/listas/todas-peliculas-david-fincher-ordenadas-peor-a-mejor">
+  Todas las películas de David Fincher ordenadas de peor a mejor 
+  <span class="head-item-meta"><time class="js-header-post" datetime="2020-12-08T13:00:36+00:00"></time></span></a></li> <li><a class="head-new-item" href="/trailers/sweet-home-chiflante-trailer-para-serie-terror-coreana-netflix-que-parece-mezclar-jungla-cristal-cosa">
+  'Sweet Home': chiflante tráiler para la serie de terror coreana de Netflix que parece mezclar 'La jungla de cristal' y 'La cosa'
+  <span class="head-item-meta"><time class="js-header-post" datetime="2020-12-08T12:00:35+00:00"></time></span></a></li> <li><a class="head-new-item" href="/actores-y-actrices/senor-anillos-viggo-mortensen-comenta-escena-nunca-vista-trilogia-que-aragorn-estaba-afeitado-embellecido">
+  'El señor de los anillos': Viggo Mortensen comenta una escena nunca vista de la trilogía en la que Aragorn "estaba afeitado y embellecido" 
+  <span class="head-item-meta"><time class="js-header-post" datetime="2020-12-08T11:03:24+00:00"></time></span></a></li> <li><a class="head-new-item" href="/criticas/years-and-years-tremendista-vision-futuro-inmediato-que-se-acerca-a-capitulo-black-mirror-extendido-a-miniserie">
+  'Years and Years': una tremendista visión del futuro inmediato que se acerca a un capítulo de 'Black Mirror' extendido a miniserie
+  <span class="head-item-meta"><time class="js-header-post" datetime="2020-12-08T11:00:35+00:00"></time></span></a></li> <li><a class="head-new-item" href="/directores-y-guionistas/christopher-nolan-critica-a-warner-decision-estrenar-forma-simultanea-cines-hbo-max-peor-plataforma-streaming">
+  Christopher Nolan critica a Warner por la decisión de estrenar de forma simultánea en cines y HBO Max: "la peor plataforma de streaming"
+  <span class="head-item-meta"><time class="js-header-post" datetime="2020-12-08T08:17:21+00:00"></time></span></a></li> </ul>
+<p class="head-more-item"><a class="btn" data-blog="espinof" href="#" id="view-more">Ver más artículos</a></p>
+<div class="head-menu-video">
+<p class="nav-heading"> Espinof
+     <span>TV</span>
+</p>
+<ul id="recent-videos">
+<li><a class="head-new-item" href="https://www.espinof.com/series-de-ficcion/que-antidisturbios-obra-maestra-ficcion-espanola"><span class="head-new-video-thumb"><img alt="‘ANTIDISTURBIOS’: las claves de una OBRA MAESTRA de la televisión española" src="https://img.youtube.com/vi/qENOe6xoEHw/mqdefault.jpg"/></span><span class="head-new-video-desc">‘ANTIDISTURBIOS’: las claves de una OBRA MAESTRA de la televisión española</span></a></li> <li><a class="head-new-item" href="https://www.youtube.com/watch?v=T_B_cjGyDcQ"><span class="head-new-video-thumb"><img alt="Las 15 mejores nuevas series de 2020" src="https://img.youtube.com/vi/T_B_cjGyDcQ/mqdefault.jpg"/></span><span class="head-new-video-desc">Las 15 mejores nuevas series de 2020</span></a></li> <li><a class="head-new-item" href="https://www.xataka.com/basics/como-configurar-tu-chromecast-y-11-trucos-para-sacarle-el-maximo-provecho"><span class="head-new-video-thumb"><img alt="13 TRUCOS CHROMECAST 2020 para sacarle TODO el PARTIDO" src="https://img.youtube.com/vi/OBHsXKtsN5I/mqdefault.jpg"/></span><span class="head-new-video-desc">13 TRUCOS CHROMECAST 2020 para sacarle TODO el PARTIDO</span></a></li> </ul>
+<p class="head-more-item"><a class="btn" data-blog="espinof" href="#" id="view-more-videos">Ver más vídeos</a></p>
+</div>
+</div>
+</section>
+<nav class="head-menu-container head-menu-searchapp" id="search">
+</nav>
+<script>
+ document.getElementById("search").innerHTML = '\
+ <a href="#search" class="head-menu-toggler js-toggle"></a>\
+ <div class="head-menu">\
+  <a href="#search" class="close close-corner js-toggle">Inicio</a>\
+  <h2>Buscar</h2>\
+  <div class="head-menu-search">\
+   <div class="head-search-form js-search-form">\
+    <input id="search-field-2" type="text" placeholder="Buscar en Espinof" class="search-container-2" data-container="#search-container-2">\
+    <button class="head-search-button js-search-button" data-field="#search-field-2">Buscar</button>\
+   </div>\
+  </div>\
+  <section id="search-container-2" class="js-search-results"></section>\
+ </div>';
+</script>
+<nav class="nav nav-list nav-register" id="nav-twitter-register"></nav>
+<div id="react-login"></div>
+<nav class="nav nav-list nav-login" id="nav-login"></nav>
+<nav class="nav nav-list nav-register" id="nav-register"></nav>
+<nav class="nav nav-list nav-login" id="nav-recover"></nav>
+<nav class="nav nav-list nav-login" id="nav-pick"></nav>
+<div id="js-edit-user-profile-form"></div>
+<div id="js-user-comments"></div>
+<div id="js-modal-user-deactivate"></div>
+<script>
+  window.WSLModules = window.WSLModules || {};
+  WSLModules.Footer = {'moduleConf' : 'c1'};
+</script>
+<footer class="foot js-foot">
+<div class="wrapper foot-wrapper">
+<div class="newsletter-box" id="newsletter">
+<div class="menu-follow foot-menu-follow">
+<span class="item-meta foot-item-meta">Síguenos</span>
+<ul>
+<li>
+<a class="icon-twitter link-twitter" href="http://twitter.com/espinof_com" rel="nofollow">Twitter</a>
+</li>
+<li>
+<a class="icon-facebook link-facebook" href="https://www.facebook.com/pages/espinofcinetv/52386609324" rel="nofollow">Facebook</a>
+</li>
+<li>
+<a class="icon-youtube link-youtube" href="https://www.youtube.com/channel/UCZQfwlWCUxMaxwf2MKsH_wg?sub_confirmation=1" rel="nofollow">Youtube</a>
+</li>
+<li>
+<a class="icon-instagram link-instagram" href="https://instagram.com/espinof_com" rel="nofollow">Instagram</a>
+</li>
+<li>
+<a class="icon-rss link-rss" href="/index.xml" rel="nofollow">RSS</a>
+</li>
+<li>
+<a class="icon-flipboard link-flipboard" href="https://flipboard.com/@espinof" rel="nofollow">Flipboard</a>
+</li>
+</ul>
+</div>
+</div>
+<nav class="menu-categories foot-menu-categories">
+<p class="nav-heading">En Espinof hablamos de...</p>
+<ul>
+<li><a class="list-item foot-list-item" href="/categoria/estrenos">Estrenos</a></li> <li><a class="list-item foot-list-item" href="/categoria/proyectos">Proyectos</a></li> <li><a class="list-item foot-list-item" href="/categoria/series-de-ficcion">Series de ficción</a></li> <li><a class="list-item foot-list-item" href="/categoria/criticas">Críticas</a></li> <li><a class="list-item foot-list-item" href="/categoria/netflix">Netflix</a></li> <li><a class="list-item foot-list-item" href="/categoria/listas">Listas</a></li> <li><a class="list-item foot-list-item" href="/tag/hbo">HBO</a></li> <li><a class="list-item foot-list-item" href="/tag/wonder-woman-1984">Wonder Woman 1984</a></li> <li><a class="list-item foot-list-item" href="/tag/the-mandalorian">The Mandalorian</a></li> <li><a class="list-item foot-list-item" href="/tag/disney-plus">Disney plus</a></li> <li><a class="list-item foot-list-item" href="/tag/30-monedas">30 monedas</a></li> <li><a class="list-item foot-list-item" href="/tag/antidisturbios">Antidisturbios</a></li> </ul> <p class="view-even-more"><a class="btn" href="/archivos">Ver más temas</a></p>
+</nav>
+<script>
+ document.write('\
+  <div class="search-box foot-search">\
+   <div class="search-form js-search-form">\
+    <input id="search-field-3" type="text" placeholder="Buscar en Espinof" class="search-container-3" data-container="#search-container-3">\
+    <button class="search-button js-search-button" data-field="#search-field-3">Buscar</button>\
+   </div>\
+  </div>')
+</script> <div class="js-search-results" id="search-container-3"></div>
+</div>
+</footer>
+<script>
+  (function() {
+   var form = document.createElement('form');
+   form.method = 'POST';
+   form.classList.add('js-subscription', 'newsletter-form', 'foot-newsletter-form');
+   form.setAttribute('data-url', "https://mailer.weblogssl.com/subscribe_check/#email#/espinof/Espinof");
+   form.innerHTML = '<p class="nav-heading">Recibe un email al día con los artículos de Espinof: </p>\
+    <p><input class="js-email newsletter-input" type="email" placeholder="Tu correo electrónico">\
+    <button class="btn-primary newsletter-button" type="submit">Suscribir</button></p>';
+   var newsletterContainer = document.getElementById('newsletter');
+   newsletterContainer.insertBefore(form, newsletterContainer.firstChild);
+  })();
+ </script>
+<section class="foot-external js-foot-external">
+<div class="wrapper foot-wrapper">
+<header class="foot-head">
+<a class="backlink foot-backlink" href="#">Subir</a>
+<p class="webedia-brand foot-webedia-brand">
+<a class="webedia-logo foot-webedia-logo" href="https://www.webedia.es/"><span>Webedia</span></a>
+</p>
+</header>
+<div class="menu-external foot-menu-external">
+<div class="spain-blogs">
+<div class="links-category">
+<p class="channel-title"> Tecnología </p><ul><li><a class="list-item foot-list-item" href="//www.xataka.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer" rel="nofollow">Xataka</a></li><li><a class="list-item foot-list-item" href="//www.xatakamovil.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer">Xataka Móvil</a></li><li><a class="list-item foot-list-item" href="//www.xatakafoto.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer">Xataka Foto</a></li><li><a class="list-item foot-list-item" href="//www.xatakandroid.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer">Xataka Android</a></li><li><a class="list-item foot-list-item" href="//www.xatakahome.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer">Xataka Smart Home</a></li><li><a class="list-item foot-list-item" href="//www.xatakawindows.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer">Xataka Windows</a></li><li><a class="list-item foot-list-item" href="//www.xatakaciencia.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer">Xataka Ciencia</a></li><li><a class="list-item foot-list-item" href="//www.applesfera.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer">Applesfera</a></li><li><a class="list-item foot-list-item" href="//www.genbeta.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer">Genbeta</a></li><li><a class="list-item foot-list-item" href="//magnet.xataka.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer">Magnet</a></li></ul>
+</div>
+<div class="links-category">
+<p class="channel-title"> Videojuegos </p><ul><li><a class="list-item foot-list-item" href="//www.3djuegos.com#utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer">3DJuegos</a></li><li><a class="list-item foot-list-item" href="//www.vidaextra.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer">Vida Extra</a></li><li><a class="list-item foot-list-item" href="//es.ign.com#utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer">IGN</a></li><li><span class="list-item foot-list-item">Millenium</span></li></ul>
+</div>
+<div class="links-category">
+<p class="channel-title"> Entretenimiento </p><ul><li><a class="list-item foot-list-item" href="https://www.sensacine.com#utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer">Sensacine</a></li><li><a class="list-item foot-list-item" href="//www.espinof.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer">Espinof</a></li></ul>
+</div>
+<div class="links-category">
+<p class="channel-title"> Gastronomía </p><ul><li><a class="list-item foot-list-item" href="//www.directoalpaladar.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer">Directo al Paladar</a></li></ul>
+</div>
+<div class="links-category">
+<p class="channel-title"> Estilo de vida </p><ul><li><a class="list-item foot-list-item" href="//www.vitonica.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer" rel="nofollow">Vitónica</a></li><li><a class="list-item foot-list-item" href="//www.trendencias.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer">Trendencias</a></li><li><a class="list-item foot-list-item" href="//www.trendenciashombre.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer">Trendencias Hombre</a></li><li><a class="list-item foot-list-item" href="//decoracion.trendencias.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer" rel="nofollow">Decoesfera</a></li><li><a class="list-item foot-list-item" href="//www.compradiccion.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer">Compradiccion</a></li><li><a class="list-item foot-list-item" href="//www.poprosa.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer">Poprosa</a></li></ul>
+</div>
+<div class="links-category">
+<p class="channel-title"> Motor </p><ul><li><a class="list-item foot-list-item" href="//www.motorpasion.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer">Motorpasión</a></li><li><a class="list-item foot-list-item" href="//www.motorpasionmoto.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer">Motorpasión Moto</a></li></ul><p class="channel-title"> Economía </p><ul><li><a class="list-item foot-list-item" href="//www.elblogsalmon.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer">El Blog Salmón</a></li><li><a class="list-item foot-list-item" href="//www.pymesyautonomos.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer">Pymes y Autónomos</a></li></ul><p class="channel-title"> Familia y Ocio </p><ul><li><a class="list-item foot-list-item" href="//www.bebesymas.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer">Bebés y Más</a></li><li><a class="list-item foot-list-item" href="//www.diariodelviajero.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer">Diario del Viajero</a></li></ul>
+</div>
+</div>
+<div class="latam-blogs">
+<p class="channel-title">Latinoamérica</p>
+<div class="links-category">
+<ul><li><a class="list-item foot-list-item" href="//www.xataka.com.mx?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer">Xataka México</a></li></ul>
+</div>
+<div class="links-category">
+<ul><li><a class="list-item foot-list-item" href="//www.3djuegos.com/mx/#utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer">3DJuegos México</a></li></ul>
+</div>
+<div class="links-category">
+<ul><li><a class="list-item foot-list-item" href="https://www.sensacine.com.mx#utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer">Sensacine México</a></li></ul>
+</div>
+<div class="links-category">
+<ul><li><a class="list-item foot-list-item" href="//www.directoalpaladar.com.mx?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer">Directo al Paladar México</a></li></ul>
+</div>
+<div class="links-category">
+<ul></ul>
+</div>
+<div class="links-category">
+<ul><li><a class="list-item foot-list-item" href="//www.motorpasion.com.mx?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer">Motorpasión México</a></li></ul>
+</div>
+</div>
+<div class="others-blogs">
+<p class="channel-title">Participamos en</p>
+<div class="links-category">
+<ul><li><a class="list-item foot-list-item" href="https://www.nobbot.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer" rel="nofollow">Nobbot</a></li><li><a class="list-item foot-list-item" href="https://www.elcorteingles.es/ideas-y-consejos/tecnologia/?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer" rel="nofollow">Ideas y Consejos de Tecnología</a></li><li><a class="list-item foot-list-item" href="https://www.bloglenovo.es?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer" rel="nofollow">Blog Lenovo</a></li><li><a class="list-item foot-list-item" href="https://www.inget.es/?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer" rel="nofollow">Inget by acer</a></li><li><a class="list-item foot-list-item" href="http://blog.orange.es?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer" rel="nofollow">By Orange - Blog de Orange</a></li><li><a class="list-item foot-list-item" href="https://eligebientubarrio.ing.es/?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer" rel="nofollow">Elige Bien tu barrio</a></li><li><a class="list-item foot-list-item" href="https://bloygo.yoigo.com/?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer" rel="nofollow">Bloygo</a></li></ul>
+</div>
+<div class="links-category">
+<ul></ul>
+</div>
+<div class="links-category">
+<ul><li><a class="list-item foot-list-item" href="//poptv.orange.es?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer" rel="nofollow">Pop TV</a></li></ul>
+</div>
+<div class="links-category">
+<ul><li><a class="list-item foot-list-item" href="https://www.cocacolaespana.es?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer" rel="nofollow">Coca-Cola Journey España</a></li><li><a class="list-item foot-list-item" href="https://www.cocacolaportugal.pt?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer" rel="nofollow">Coca-Cola Journey Portugal</a></li><li><a class="list-item foot-list-item" href="https://www.cervezasalhambra.es/momentos-alhambra/?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer" rel="nofollow">Momentos Alhambra</a></li><li><a class="list-item foot-list-item" href="https://www.rentabilibar.es?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer" rel="nofollow">Mahou Rentabilibar</a></li></ul>
+</div>
+<div class="links-category">
+<ul><li><a class="list-item foot-list-item" href="//webloom.health?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer" rel="nofollow">Bloom</a></li></ul>
+</div>
+<div class="links-category">
+<ul><li><a class="list-item foot-list-item" href="https://www.circulaseguro.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer" rel="nofollow">Circula Seguro</a></li><li><a class="list-item foot-list-item" href="https://www.circulaseguro.pt?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer" rel="nofollow">Circula Seguro PT</a></li><li><a class="list-item foot-list-item" href="https://www.tuenergiacuenta.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer" rel="nofollow">Tu Energía Cuenta</a></li><li><a class="list-item foot-list-item" href="//hablemosdeempresas.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer" rel="nofollow">Hablemos de empresas</a></li><li><a class="list-item foot-list-item" href="https://www.ennaranja.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer" rel="nofollow">En Naranja</a></li><li><a class="list-item foot-list-item" href="https://blog.sage.es?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer" rel="nofollow">Sage Experience</a></li><li><a class="list-item foot-list-item" href="https://www.huellasbysareb.es/?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer" rel="nofollow">Huellas by Sareb</a></li><li><a class="list-item foot-list-item" href="https://www.smartcitylab.com/?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer" rel="nofollow">Tomorrow Mag</a></li><li><a class="list-item foot-list-item" href="https://blog.selfbank.es/?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer" rel="nofollow">Blog Self Bank</a></li><li><a class="list-item foot-list-item" href="https://estardondeestes.com/?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=footer" rel="nofollow">Estar donde estés</a></li></ul>
+</div>
+</div>
+</div>
+</div>
+</section>
+<aside class="head-favicons-container m-is-later js-head-favicons" id="head-favicons">
+<div class="head-favicons">
+<div class="head-favicons-index head-webedia-logo">
+<a class="js-group-toggle" data-target="#head-network" href="#"><abbr title="Webedia">Webedia</abbr></a>
+</div>
+<div class="head-group"><span class="head-group-logo"></span></div>
+<ul class="head-favicons-list">
+<li>
+<a class="favicon tec-xataka" href="//www.xataka.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=favicons" rel="nofollow">
+<span>Xataka</span>
+</a>
+</li>
+<li>
+<a class="favicon tec-vidaextra" href="//www.vidaextra.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=favicons">
+<span>Vida Extra</span>
+</a>
+</li>
+<li>
+<a class="favicon oci-espinof favicon-current" href="//www.espinof.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=favicons">
+<span>Espinof</span>
+</a>
+</li>
+<li>
+<a class="favicon eco-elblogsalmon" href="//www.elblogsalmon.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=favicons">
+<span>El Blog Salmón</span>
+</a>
+</li>
+<li>
+<a class="favicon tec-genbeta" href="//www.genbeta.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=favicons">
+<span>Genbeta</span>
+</a>
+</li>
+<li>
+<a class="favicon mot-motorpasion" href="//www.motorpasion.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=favicons">
+<span>Motorpasión</span>
+</a>
+</li>
+<li>
+<a class="favicon est-directoalpaladar" href="//www.directoalpaladar.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=favicons">
+<span>Directo al Paladar</span>
+</a>
+</li>
+<li>
+<a class="favicon est-bebesymas" href="//www.bebesymas.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=favicons">
+<span>Bebés y Más</span>
+</a>
+</li>
+<li>
+<a class="favicon oci-diariodelviajero" href="//www.diariodelviajero.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=favicons">
+<span>Diario del Viajero</span>
+</a>
+</li>
+<li>
+<a class="favicon tec-xatakaciencia" href="//www.xatakaciencia.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=favicons">
+<span>Xataka Ciencia</span>
+</a>
+</li>
+<li>
+<a class="favicon est-trendencias" href="//www.trendencias.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=favicons">
+<span>Trendencias</span>
+</a>
+</li>
+<li>
+<a class="favicon tec-applesfera" href="//www.applesfera.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=favicons">
+<span>Applesfera</span>
+</a>
+</li>
+<li>
+<a class="favicon tec-xatakamovil" href="//www.xatakamovil.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=favicons">
+<span>Xataka Móvil</span>
+</a>
+</li>
+<li>
+<a class="favicon mot-motorpasionmoto" href="//www.motorpasionmoto.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=favicons">
+<span>Motorpasión Moto</span>
+</a>
+</li>
+<li>
+<a class="favicon est-decoesfera" href="//decoracion.trendencias.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=favicons" rel="nofollow">
+<span>Decoesfera</span>
+</a>
+</li>
+<li>
+<a class="favicon est-vitonica" href="//www.vitonica.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=favicons" rel="nofollow">
+<span>Vitónica</span>
+</a>
+</li>
+<li>
+<a class="favicon tec-xatakafoto" href="//www.xatakafoto.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=favicons">
+<span>Xataka Foto</span>
+</a>
+</li>
+<li>
+<a class="favicon eco-pymesyautonomos" href="//www.pymesyautonomos.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=favicons">
+<span>Pymes y Autónomos</span>
+</a>
+</li>
+<li>
+<a class="favicon est-trendenciashombre" href="//www.trendenciashombre.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=favicons">
+<span>Trendencias Hombre</span>
+</a>
+</li>
+<li>
+<a class="favicon tec-xatakandroid" href="//www.xatakandroid.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=favicons">
+<span>Xataka Android</span>
+</a>
+</li>
+<li>
+<a class="favicon tec-xatakahome" href="//www.xatakahome.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=favicons">
+<span>Xataka Smart Home</span>
+</a>
+</li>
+<li>
+<a class="favicon tec-xatakawindows" href="//www.xatakawindows.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=favicons">
+<span>Xataka Windows</span>
+</a>
+</li>
+<li>
+<a class="favicon tec-magnet" href="//magnet.xataka.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=favicons">
+<span>Magnet</span>
+</a>
+</li>
+<li>
+<a class="favicon tec-compradiccion" href="//www.compradiccion.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=favicons">
+<span>Compradiccion</span>
+</a>
+</li>
+<li>
+<a class="favicon tech-3djuegos" href="//www.3djuegos.com#utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=favicons">
+<span>3DJuegos</span>
+</a>
+</li>
+<li>
+<a class="favicon oci-sensacine" href="https://www.sensacine.com#utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=favicons">
+<span>Sensacine</span>
+</a>
+</li>
+<li>
+<a class="favicon tech-ign" href="//es.ign.com#utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=favicons">
+<span>IGN</span>
+</a>
+</li>
+<li>
+<span class="favicon tech-millenium">
+<span>Millenium</span>
+</span>
+</li>
+<li>
+<a class="favicon est-poprosa" href="//www.poprosa.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=favicons">
+<span>Poprosa</span>
+</a>
+</li>
+</ul>
+</div>
+</aside>
+<aside class="favicons-expanded-container js-favicons-expand" id="head-network">
+<div class="favicons-expanded">
+<div class="favicons-expanded-inner">
+<ul><li><h4>Tecnología</h4></li><li><a class="favicon tec-xataka" href="//www.xataka.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=favicons" rel="nofollow"><span></span>Xataka
+     </a></li><li><a class="favicon tec-xatakamovil" href="//www.xatakamovil.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=favicons"><span></span>Xataka Móvil
+     </a></li><li><a class="favicon tec-xatakafoto" href="//www.xatakafoto.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=favicons"><span></span>Xataka Foto
+     </a></li><li><a class="favicon tec-xatakandroid" href="//www.xatakandroid.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=favicons"><span></span>Xataka Android
+     </a></li><li><a class="favicon tec-xatakahome" href="//www.xatakahome.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=favicons"><span></span>Xataka Smart Home
+     </a></li><li><a class="favicon tec-xatakawindows" href="//www.xatakawindows.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=favicons"><span></span>Xataka Windows
+     </a></li><li><a class="favicon tec-xatakaciencia" href="//www.xatakaciencia.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=favicons"><span></span>Xataka Ciencia
+     </a></li><li><a class="favicon tec-applesfera" href="//www.applesfera.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=favicons"><span></span>Applesfera
+     </a></li><li><a class="favicon tec-genbeta" href="//www.genbeta.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=favicons"><span></span>Genbeta
+     </a></li><li><a class="favicon tec-magnet" href="//magnet.xataka.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=favicons"><span></span>Magnet
+     </a></li></ul>
+</div>
+<div class="favicons-expanded-inner">
+<ul><li><h4>Videojuegos</h4></li><li><a class="favicon tech-3djuegos" href="//www.3djuegos.com#utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=favicons"><span></span>3DJuegos
+     </a></li><li><a class="favicon tec-vidaextra" href="//www.vidaextra.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=favicons"><span></span>Vida Extra
+     </a></li><li><a class="favicon tech-ign" href="//es.ign.com#utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=favicons"><span></span>IGN
+     </a></li><li><span class="favicon tech-millenium"><span></span>Millenium</span></li></ul>
+</div>
+<div class="favicons-expanded-inner">
+<ul><li><h4>Entretenimiento</h4></li><li><a class="favicon oci-sensacine" href="https://www.sensacine.com#utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=favicons"><span></span>Sensacine
+     </a></li><li><a class="favicon oci-espinof" href="//www.espinof.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=favicons"><span></span>Espinof
+     </a></li></ul>
+</div>
+<div class="favicons-expanded-inner">
+<ul><li><h4>Gastronomía</h4></li><li><a class="favicon est-directoalpaladar" href="//www.directoalpaladar.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=favicons"><span></span>Directo al Paladar
+     </a></li></ul>
+</div>
+<div class="favicons-expanded-inner">
+<ul><li><h4>Estilo de vida</h4></li><li><a class="favicon est-vitonica" href="//www.vitonica.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=favicons" rel="nofollow"><span></span>Vitónica
+     </a></li><li><a class="favicon est-trendencias" href="//www.trendencias.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=favicons"><span></span>Trendencias
+     </a></li><li><a class="favicon est-trendenciashombre" href="//www.trendenciashombre.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=favicons"><span></span>Trendencias Hombre
+     </a></li><li><a class="favicon est-decoesfera" href="//decoracion.trendencias.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=favicons" rel="nofollow"><span></span>Decoesfera
+     </a></li><li><a class="favicon tec-compradiccion" href="//www.compradiccion.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=favicons"><span></span>Compradiccion
+     </a></li><li><a class="favicon est-poprosa" href="//www.poprosa.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=favicons"><span></span>Poprosa
+     </a></li></ul>
+</div>
+<div class="favicons-expanded-inner">
+<ul><li><h4>Motor</h4></li><li><a class="favicon mot-motorpasion" href="//www.motorpasion.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=favicons"><span></span>Motorpasión
+     </a></li><li><a class="favicon mot-motorpasionmoto" href="//www.motorpasionmoto.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=favicons"><span></span>Motorpasión Moto
+     </a></li></ul><ul><li><h4>Economía</h4></li><li><a class="favicon eco-elblogsalmon" href="//www.elblogsalmon.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=favicons"><span></span>El Blog Salmón
+     </a></li><li><a class="favicon eco-pymesyautonomos" href="//www.pymesyautonomos.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=favicons"><span></span>Pymes y Autónomos
+     </a></li></ul><ul><li><h4>Familia y Ocio</h4></li><li><a class="favicon est-bebesymas" href="//www.bebesymas.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=favicons"><span></span>Bebés y Más
+     </a></li><li><a class="favicon oci-diariodelviajero" href="//www.diariodelviajero.com?utm_source=espinof&amp;utm_medium=network&amp;utm_campaign=favicons"><span></span>Diario del Viajero
+     </a></li></ul>
+</div>
+</div>
+</aside>
+<div id="fb-root"></div>
+<div class="cookies-overlay" id="cookies-overlay"></div>
+</div>
+</div>
+</div>
+</div>
+<div id="div-gpt-int" style="width:1px; height:1px;">
+<script>
+   googletag.cmd.push(function() { googletag.display("div-gpt-int"); });
+  </script>
+</div>
+<div id="div-gpt-int2" style="width:1px; height:1px;">
+<script>
+   googletag.cmd.push(function() { googletag.display("div-gpt-int2"); });
+  </script>
+</div>
+<script>
+(function() {
+ var lazyElements    = document.getElementsByClassName('sf-lazy')
+ ,   srcsetSupported = false
+ ,   threshold;
+
+ if (!/Edge\/\d+/.test(navigator.userAgent)) {
+  srcsetSupported = 'srcset' in document.createElement('img');
+ }
+
+ function updateAttributes(element) {
+  var sfSrcset = element.getAttribute('data-sf-srcset') || element.getAttribute('sf-srcset');
+  var sfSrc = element.getAttribute('data-sf-src') || element.getAttribute('sf-src');
+  var sizes = element.getAttribute('data-sizes');
+  if (sfSrcset) {
+   element.setAttribute('srcset', sfSrcset);
+  }
+  if (sfSrc) {
+   element.setAttribute('src', sfSrc);
+  }
+  if (sizes) {
+   element.setAttribute('sizes', sizes);
+  }
+  element.classList.remove('sf-lazy');
+ }
+
+ threshold = (window.innerHeight || document.documentElement.clientHeight) + 100;
+ function lazyLoad() {
+  var coords, element, i, isVisible;
+  if (0 == lazyElements.length) {
+   document.removeEventListener('scroll', lazyLoad);
+   return false;
+  }
+
+  for (i = 0; i < lazyElements.length; i++) {
+   element = lazyElements[i];
+   coords = element.getBoundingClientRect();
+   isVisible = (coords.top >= 0 && coords.left >= 0 && coords.top) <= threshold;
+   if (isVisible) {
+    updateAttributes(element);
+   }
+  }
+ }
+
+ if (srcsetSupported) {
+  while(lazyElements.length > 0) {
+   updateAttributes(lazyElements[0]);
+  }
+ }
+})();
+</script> <script>
+ var WSL2 = WSL2 || {};
+ WSL2.config = WSL2.config || {};
+ WSL2.config.fbapikey = "320648231703376";
+ WSL2.config.fbApiVersion = "v8.0";
+ WSL2.config.siteName = "Espinof";
+ WSL2.config.jsPath = "https://img.weblogssl.com/LPbackend/prod/v2/js";
+ WSL2.config.gtmContainerId = "";
+ WSL2.config.imagePath = "https://img.weblogssl.com/css/espinof/p/v6";
+ WSL2.config.desktopSiteUrl = "https://www.espinof.com";
+ WSL2.config.cookieDomain = "";
+ WSL2.config.enableEditorialRecommendations = "1";
+ WSL2.config.s3ImagePath = "https://i.blogs.es";
+ WSL2.config.eventImagePath = "http://img.espinof.com/events";
+ WSL2.config.socialTwitter = "espinof_com";
+ WSL2.config.enableUniformSocialShareGallery = "0";
+ WSL2.config.twitterSocial = "espinof_com";
+ WSL2.config.enableCen2AdInComments = 0;
+ WSL2.config.enableGiphyInComments = 1;
+ WSL2.config.enableJwplayerVideoAd = 1;
+ WSL2.config.jwplayerKey = "1vZlXWdZxKOPZcXAx5/X7QR362yqcd+OT7+37g==";
+ WSL2.config.enablePinterestSharing = 0;
+ WSL2.config.enableAdblockEcommerce = 1;
+ WSL2.config.adminUrl = "https://admin.espinof.com";
+ WSL2.config.blogDomain = "espinof.com";
+ WSL2.config.blogMeta = {
+  siteName: "espinof",
+  mnemonic: "BDC",
+  blogDomain: "espinof.com"
+ };
+ WSL2.config.jwplayerVastId = "241667871"
+ WSL2.config.showMxSiteFloatingBox = 0
+ WSL2.config.enableGoogleAnalytics = 1
+</script>
+<script>
+ WSL2.config.postSubType = "special";
+ WSL2.config.redirectDesktopRoot = 'false';
+ WSL2.config.postId = 212113;
+ WSL2.config.postTitle = "Las\u002049\u0020pel\u00EDculas\u0020m\u00E1s\u0020esperadas\u0020de\u00202021";
+ WSL2.config.tweetText = "Comentario%20a%20Las%2049%20pel%C3%ADculas%20m%C3%A1s%20esperadas%20de%202021";
+ WSL2.config.twitterName = "";
+ WSL2.config.postUrl = "https://www.espinof.com/listas/peliculas-estreno-esperadas-2021";
+ WSL2.config.recommendationEngineVersion = 1;
+ WSL2.config.device = "desktop";
+ WSL2.config.enableNanomediaHeader = 1;
+ WSL2.config.enableStickySidebar = 0;
+ </script>
+<script id="js-adblock-products" type="text/x-template">
+ [{"url":"https:\/\/www.amazon.es\/Proyector-Port%C3%A1til-Altavoces-Incorporados-Alimentaci%C3%B3n\/dp\/B07HRJJRZR\/?tag=bdc-banner-adblock-21","title":"Proyector APEMAN Mini Port\u00e1til","asin":"B07HRJJRZR","image":"https:\/\/img.weblogssl.com\/g\/images\/Proyector_APEMAN.jpg","price":"82,99","currency":"EUR"},{"url":"https:\/\/www.amazon.es\/DR-Q-Proyector-compatible-Conexi%C3%B3n-dispositivo\/dp\/B07DFH6Y6Y\/?tag=bdc-banner-adblock-21","title":"Proyector DR.Q","asin":"B07DFH6Y6Y","image":"https:\/\/img.weblogssl.com\/g\/images\/Proyector_DR-Q.jpg","price":"69,99","currency":"EUR"},{"url":"https:\/\/www.amazon.es\/Sonos-Beam-Sonido-Inteligente-integrada\/dp\/B07DLGXHW4\/?tag=bdc-banner-adblock-21","title":"Sonos Beam","asin":"B07DLGXHW4","image":"https:\/\/img.weblogssl.com\/g\/images\/Sonos_Beam.jpg","price":"404,00","currency":"EUR"},{"url":"https:\/\/www.amazon.es\/Sony-HTSF150-Sonido-compacta-Bluetooth\/dp\/B078Y5Q6W9\/?tag=bdc-banner-adblock-21","title":"Sony HTSF150 - Barra de Sonido","asin":"B078Y5Q6W9","image":"https:\/\/img.weblogssl.com\/g\/images\/Sony_HTSF150.jpg","price":"119,00","currency":"EUR"},{"url":"https:\/\/www.amazon.es\/Android-Box-RK-RK3229-H-265-Smart\/dp\/B07GP1GBK6\/?tag=bdc-banner-adblock-21","title":"Android 9.0 TV Box + Mini Teclado inal\u00e1mbrico","asin":"B07GP1GBK6","image":"https:\/\/img.weblogssl.com\/g\/images\/Android_9-0_TV_Box.jpg","price":"69,99","currency":"EUR"},{"url":"https:\/\/www.amazon.es\/gp\/product\/B0083SEZM0\/?tag=bdc-banner-adblock-21","title":"Friends - Complete Season 1-10","asin":"B0083SEZM0","image":"https:\/\/img.weblogssl.com\/g\/images\/Friends.jpg","price":"72,68","currency":"EUR"},{"url":"https:\/\/www.amazon.es\/gp\/product\/B01ETRGE7M\/?tag=bdc-banner-adblock-21","title":"Fire TV Stick","asin":"B01ETRGE7M","image":"https:\/\/img.weblogssl.com\/g\/images\/fire_tv_stick%20.png","price":"39,99","currency":"EUR"},{"url":"https:\/\/www.amazon.es\/BOX-Reproductor-streaming-Asistente-Chromecast\/dp\/B07K3KC5CP\/?tag=bdc-banner-adblock-21","title":"Xiaomi - MI TV BOX S","asin":"B07K3KC5CP","image":"https:\/\/img.weblogssl.com\/g\/images\/Xiaomi-MI_TV_BOX.jpg","price":"59,99","currency":"EUR"}]
+</script>
+<script async="" src="https://img.weblogssl.com/LPbackend/prod/v2/js/postpage-85bfeaad.js"></script>
+<script>
+  window.WSLModules = window.WSLModules || {};
+  WSLModules.Recommendations = WSLModules.Recommendations || {};
+  WSLModules.Recommendations.PostRecommendation = {
+   endpoint: "https://recommendations.weblogssl.com/espinof/peliculas-estreno-esperadas-2021/CO"
+  }
+ </script>
+<script>
+  window.WSLModules = window.WSLModules || {};
+  WSLModules.Recommendations = WSLModules.Recommendations || {};
+  WSLModules.Recommendations.Editorial = {
+   endpoint: "https://recommendations.weblogssl.com/editorial/espinof",
+   version: "v1"
+  }
+ </script>
+<script>
+  (function(d) {
+   if ('ES' !== country) {
+    return;
+   }
+
+   var b = d.body;
+   var e = d.createElement('script');
+   e.id = 'parsely-cfg';
+   e.src = '//cdn.parsely.com/keys/espinof.com/p.js';
+   e.async = true;
+   e.setAttribute('data-parsely-site', "espinof.com");
+   b.appendChild(e);
+  })(document);
+ </script>
+<script data-vendor="iab:184" type="didomi/javascript">
+  !function(t,e,a){"use strict";var i=t.scimhtiraidem||{};function s(t){var e=i[a]||{};i[a]=e,e[t]||(e[t]=function(){i._queue[a].push({method:t,args:Array.prototype.slice.apply(arguments)})})}t.googletag=t.googletag||{},t.googletag.cmd=t.googletag.cmd||[],t.googletag.cmd.push(function(){var e=t.localStorage.getItem("mics_sgmts"),a=JSON.parse(e),i=a||{};Object.keys(i).forEach(function(e){t.googletag.pubads().setTargeting("mics_"+e,i[e].map(String))})});var r="init call config push pushDefault addProperties addProperty onFinish onStart _reset".split(" ");i._queue=i._queue||{},i._names=i._names||[],i._names.push(a),i._queue[a]=i._queue[a]||[],i._startTime=(new Date).getTime(),i._snippetVersion="2.0";for(var o=0;o<r.length;o++)s(r[o]);t.scimhtiraidem=i,t[a]=i[a];var n=e.createElement("script");n.setAttribute("type","text/javascript"),n.setAttribute("src","https://static.mediarithmics.com/tag/2/tag.min.js"),n.setAttribute("async","true"),e.getElementsByTagName("script")[0].parentNode.appendChild(n)}(window,document,"webediaMics");
+
+  webediaMics.init("espinof-sp-2020");
+  webediaMics.call("syncFeeds");
+
+  var gen_data = {
+
+   //UTILS
+
+   global_container : function (str) {
+    var j = 0;
+    if (Object.keys(dataLayer).length > 0) {
+     dataLayer.forEach(function(item, index) {
+      if (item[str]) j = index;
+     });
+    }
+    return (dataLayer[j][str]) ? dataLayer[j][str] : null;
+   },
+
+   dateISO: function (date) {
+    var dateiso;
+    Date.parse(date) ? dateiso = new Date(date).toISOString() : dateiso = "";
+    return dateiso;
+   },
+
+   //EXTRACTION FUNCTIONS
+   extract_post: function() {
+    var post = {}
+    if (this.global_container("postId")) post["postId"] = this.global_container("postId");
+    if (this.global_container("publishedDate")) post["publishedDate"] = this.global_container("publishedDate");
+    if (this.global_container("site")) post["site"] = this.global_container("site");
+    this.global_container("partner") ?  post["partner"] = this.global_container("videoContent") : post["partner"] = false;
+    if (this.global_container("blockLength")) post["blockLength"] = this.global_container("blockLength");
+    if (this.global_container("mapping")) post["mapping"] = this.global_container("mapping");
+    if (this.global_container("elementsInPage") && this.global_container("elementsInPage").length > 0) post["elementsInPage"] = this.global_container("elementsInPage");
+    if (this.global_container("modifiedDate")) post["modifiedDate"] = this.dateISO(this.global_container("modifiedDate"));
+    if (this.global_container("categories") && this.global_container("categories").length > 0) post["categories"] = this.global_container("categories");
+    if (this.global_container("tags") && this.global_container("tags").length > 0) post["tags"] = this.global_container("tags");
+    if (this.global_container("postType")) post["postType"] = this.global_container("postType");
+    return post;
+   },
+
+   extract_category:function() {
+    var catPage = {}
+    if (this.global_container("site")) catPage["site"] = this.global_container("site");
+    if (this.global_container("mapping")) catPage["mapping"] = this.global_container("mapping");
+    if (this.global_container("categories") && this.global_container("categories").length > 0) catPage["categories"] = this.global_container("categories");
+    return catPage
+   },
+
+   extract_data : function () {
+    var data = {}
+    data['pageTitle'] = document.title;
+    data['urlPath'] = window.location.pathname;
+    if (this.global_container("siteSection")) data["name"] = this.global_container("siteSection");
+    if (this.global_container("vertical")) data["vertical"] = this.global_container("vertical");
+    data["channel_id"] = this.global_container("site") + "_ES";
+    this.global_container("videoContent") ? data["has_video"] = this.global_container("videoContent") : data["has_video"] = false;
+    if (data["name"] === "postPage" || data["name"] == "postpage"){
+     data['weblogs'] = this.extract_post();
+    }
+    else if (data["name"] == "categorypage"){
+     data['weblogs'] = this.extract_category();
+    }
+
+    if (this.global_container("brandClub")) data['brandClub'] = this.global_container("brandClub")
+
+    return data;
+   }
+  };
+
+  var extracted_data = gen_data.extract_data();
+  var event_type = (gen_data.global_container("site_route")) ? gen_data.global_container("site_route") : 'error_event_datalayer_empty';
+  if (gen_data.global_container("user_id")) {
+   webediaMics.addProperty("$user_account_id", gen_data.global_container("user_id"));
+   webediaMics.addProperty("$compartment_id", "1539");
+  }
+  webediaMics.push(event_type, extracted_data);
+ </script>
+</body>
+</html>
