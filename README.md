@@ -55,6 +55,12 @@ de uno o varios canales de televisión por medio de una búsqueda.
     
     pip install Pyflix
     
+
+![TALLER-TKINTER](https://github.com/sabeltranr/ENTREGA4-PYFLIX/blob/main/Recursor/Imagenes/Login_registro.png)
+![TALLER-TKINTER](https://github.com/sabeltranr/ENTREGA4-PYFLIX/blob/main/Recursor/Imagenes/Menu_programas.png)
+![TALLER-TKINTER](https://github.com/sabeltranr/ENTREGA4-PYFLIX/blob/main/Recursor/Imagenes/Ven_web_sraping.png)
+
+
   **NOTAS:**
   
       -Para acceder al menú de programas inicie sesión con su usuario y contraseña.
